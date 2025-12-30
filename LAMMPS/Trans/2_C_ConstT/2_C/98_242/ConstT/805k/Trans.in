@@ -1,0 +1,44 @@
+variable	RANDS universe 7542 2553 6390 9152 6347 1367 7266 5769 713 942 7939 1423 3176 6506 3266 1760 8297 1224 5975 8445 5707 2027 5108 6252 6810 7611 8188 1730 8834 7020 9275 2889 4230 4185 826 8557 3951 6453 2902 8454 5286 6081 3166 3239 567 7161 685 516
+log 		log.lammps.${RANDS}
+variable 	TEMP equal 805
+variable 	NSTEPS equal 100000000
+variable 	POT string ../W_bjorkas09.eam.fs
+
+units 		metal
+dimension 	3
+boundary 	p p p
+atom_style 	atomic
+read_restart 	../equilibrate.restart
+
+pair_style 	eam/fs
+pair_coeff 	* * ${POT} W W 
+
+neighbor 	1.0 bin
+neigh_modify 	once no every 1 delay 0 check yes
+group 		latAtoms type 1
+group 		defatoms type 2
+
+velocity 	all create ${TEMP} ${RANDS}
+
+compute 	d_pe defatoms pe/atom
+compute 	d_tpe defatoms reduce sum c_d_pe
+
+thermo		1000
+thermo_style 	custom step dt temp pe ke press vol lx ly lz  c_d_tpe
+thermo_modify 	norm no
+timestep 	1.0E-3
+
+fix		fixnpt all npt temp ${TEMP} ${TEMP} 0.1 iso 0.0 0.0 0.1
+run 		100000
+
+unfix 		fixnpt
+dump		dumpRamp all custom 1000 ramp.${RANDS}.dump id type x y z
+fix 		fixnvt all nvt temp ${TEMP} ${TEMP} 0.1
+
+run 		${NSTEPS}
+
+write_restart	ramp.restart.${RANDS}
+
+clear
+next RANDS
+jump    Trans.in

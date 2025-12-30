@@ -1,0 +1,46 @@
+variable RANDS universe 144995 951877 766136 142308 390250 270392 430334 84247 2314 3426 7346 1436 7689 7654 8908 1234 3343 5673 1985 7854 6432 83211 84533 5102
+log log.lammps.${RANDS}
+variable START_TEMP equal 300
+variable TARGET_TEMP equal 2100
+variable NSTEPS equal 100000000
+variable POT string ../../../W_bjorkas09.eam.fs
+
+units metal
+dimension 3
+boundary p p p
+atom_style atomic
+read_restart ../eqlb/equilibrate.restart
+
+pair_style eam/fs
+pair_coeff * * ${POT} W W 
+
+neighbor 1.0 bin
+neigh_modify once no every 1 delay 0 check yes
+group latAtoms type 1
+group defatoms type 2
+
+velocity all create ${START_TEMP} ${RANDS}
+fix fixnpt all npt temp ${START_TEMP} ${TARGET_TEMP} 0.1 iso 0.0 0.0 0.1
+timestep 1.0E-3
+
+compute d_pe defatoms pe/atom
+compute d_tpe defatoms reduce sum c_d_pe
+
+thermo		200
+thermo_style custom step dt temp pe ke press vol c_d_tpe
+thermo_modify norm no
+dump  dumpRamp all custom 100000 ramp.${RANDS}.dump id type x y z
+dump_modify dumpRamp append yes
+
+compute         displaced all dispvel/local 0.95
+#compute	 displaced all displaced/local 0.95
+dump displaced all local 100000 ramp.displaced.${RANDS}.xyz index c_displaced[1] c_displaced[2] c_displaced[3] c_displaced[4] c_displaced[5] c_displaced[6] c_displaced[7] c_displaced[8]
+
+
+run ${NSTEPS}
+
+write_restart ramp.restart.${RANDS}.final
+
+clear
+next RANDS
+jump            in.ramp1

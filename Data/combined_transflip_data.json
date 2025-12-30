@@ -1,0 +1,5198 @@
+{
+  "2C": [
+    {
+      "fname": "ramp.1068.dump.json",
+      "temp": 855,
+      "flipTime": 1.504e-09
+    },
+    {
+      "fname": "ramp.6008.dump.json",
+      "temp": 855,
+      "flipTime": 3.976e-09
+    },
+    {
+      "fname": "ramp.8238.dump.json",
+      "temp": 855,
+      "flipTime": 2.4981999999999998e-08
+    },
+    {
+      "fname": "ramp.9170.dump.json",
+      "temp": 855,
+      "flipTime": 2.6552e-08
+    },
+    {
+      "fname": "ramp.9544.dump.json",
+      "temp": 855,
+      "flipTime": 1.2871e-08
+    },
+    {
+      "fname": "ramp.3795.dump.json",
+      "temp": 855,
+      "flipTime": 3.332e-09
+    },
+    {
+      "fname": "ramp.4740.dump.json",
+      "temp": 855,
+      "flipTime": 2.907e-09
+    },
+    {
+      "fname": "ramp.655.dump.json",
+      "temp": 855,
+      "flipTime": 1.4116e-08
+    },
+    {
+      "fname": "ramp.6451.dump.json",
+      "temp": 855,
+      "flipTime": 5.0467e-08
+    },
+    {
+      "fname": "ramp.5196.dump.json",
+      "temp": 855,
+      "flipTime": 6.8721e-08
+    },
+    {
+      "fname": "ramp.6895.dump.json",
+      "temp": 855,
+      "flipTime": 1.093e-08
+    },
+    {
+      "fname": "ramp.1607.dump.json",
+      "temp": 855,
+      "flipTime": 4.273e-09
+    },
+    {
+      "fname": "ramp.9240.dump.json",
+      "temp": 855,
+      "flipTime": 1.8681999999999998e-08
+    },
+    {
+      "fname": "ramp.2504.dump.json",
+      "temp": 855,
+      "flipTime": 2.539e-09
+    },
+    {
+      "fname": "ramp.8818.dump.json",
+      "temp": 855,
+      "flipTime": 1.4868999999999999e-08
+    },
+    {
+      "fname": "ramp.1679.dump.json",
+      "temp": 855,
+      "flipTime": 1.3312e-08
+    },
+    {
+      "fname": "ramp.3372.dump.json",
+      "temp": 855,
+      "flipTime": 1.0912e-08
+    },
+    {
+      "fname": "ramp.4768.dump.json",
+      "temp": 855,
+      "flipTime": 1.2424e-08
+    },
+    {
+      "fname": "ramp.6731.dump.json",
+      "temp": 855,
+      "flipTime": 1.073e-09
+    },
+    {
+      "fname": "ramp.1200.dump.json",
+      "temp": 855,
+      "flipTime": 8.599e-09
+    },
+    {
+      "fname": "ramp.3594.dump.json",
+      "temp": 855,
+      "flipTime": 5.5509999999999995e-09
+    },
+    {
+      "fname": "ramp.2144.dump.json",
+      "temp": 855,
+      "flipTime": 1.599e-09
+    },
+    {
+      "fname": "ramp.2280.dump.json",
+      "temp": 855,
+      "flipTime": 8.07e-09
+    },
+    {
+      "fname": "ramp.1268.dump.json",
+      "temp": 855,
+      "flipTime": 1.4977e-08
+    },
+    {
+      "fname": "ramp.9594.dump.json",
+      "temp": 855,
+      "flipTime": 8.1018e-08
+    },
+    {
+      "fname": "ramp.2772.dump.json",
+      "temp": 855,
+      "flipTime": 1.7168e-08
+    },
+    {
+      "fname": "ramp.6013.dump.json",
+      "temp": 855,
+      "flipTime": 2.305e-09
+    },
+    {
+      "fname": "ramp.1192.dump.json",
+      "temp": 855,
+      "flipTime": 5.5159999999999996e-09
+    },
+    {
+      "fname": "ramp.7502.dump.json",
+      "temp": 855,
+      "flipTime": 4.817e-09
+    },
+    {
+      "fname": "ramp.5365.dump.json",
+      "temp": 855,
+      "flipTime": 4.9971e-08
+    },
+    {
+      "fname": "ramp.6095.dump.json",
+      "temp": 855,
+      "flipTime": 1.2484999999999999e-08
+    },
+    {
+      "fname": "ramp.7327.dump.json",
+      "temp": 855,
+      "flipTime": 6.374e-09
+    },
+    {
+      "fname": "ramp.1271.dump.json",
+      "temp": 855,
+      "flipTime": 1.3322e-08
+    },
+    {
+      "fname": "ramp.2301.dump.json",
+      "temp": 855,
+      "flipTime": 7.813e-09
+    },
+    {
+      "fname": "ramp.9788.dump.json",
+      "temp": 855,
+      "flipTime": 6.2557e-08
+    },
+    {
+      "fname": "ramp.2844.dump.json",
+      "temp": 855,
+      "flipTime": 4.482e-09
+    },
+    {
+      "fname": "ramp.1644.dump.json",
+      "temp": 855,
+      "flipTime": 3.5753e-08
+    },
+    {
+      "fname": "ramp.478.dump.json",
+      "temp": 855,
+      "flipTime": 1.4e-10
+    },
+    {
+      "fname": "ramp.7068.dump.json",
+      "temp": 855,
+      "flipTime": 2.928e-09
+    },
+    {
+      "fname": "ramp.2395.dump.json",
+      "temp": 855,
+      "flipTime": 1.549e-08
+    },
+    {
+      "fname": "ramp.5075.dump.json",
+      "temp": 855,
+      "flipTime": 2.149e-09
+    },
+    {
+      "fname": "ramp.5622.dump.json",
+      "temp": 855,
+      "flipTime": 1.5617e-08
+    },
+    {
+      "fname": "ramp.7010.dump.json",
+      "temp": 855,
+      "flipTime": 6.2501e-08
+    },
+    {
+      "fname": "ramp.4353.dump.json",
+      "temp": 855,
+      "flipTime": 7.795999999999999e-09
+    },
+    {
+      "fname": "ramp.7862.dump.json",
+      "temp": 855,
+      "flipTime": 3.119e-08
+    },
+    {
+      "fname": "ramp.7621.dump.json",
+      "temp": 855,
+      "flipTime": 5e-08
+    },
+    {
+      "fname": "ramp.949.dump.json",
+      "temp": 855,
+      "flipTime": 5.183e-09
+    },
+    {
+      "fname": "ramp.7249.dump.json",
+      "temp": 855,
+      "flipTime": 1.732e-09
+    },
+    {
+      "fname": "ramp.9275.dump.json",
+      "temp": 805,
+      "flipTime": 1.1574e-08
+    },
+    {
+      "fname": "ramp.8454.dump.json",
+      "temp": 805,
+      "flipTime": 5.6735e-08
+    },
+    {
+      "fname": "ramp.5707.dump.json",
+      "temp": 805,
+      "flipTime": 4.983e-09
+    },
+    {
+      "fname": "ramp.2553.dump.json",
+      "temp": 805,
+      "flipTime": 1.091e-09
+    },
+    {
+      "fname": "ramp.8834.dump.json",
+      "temp": 805,
+      "flipTime": 2.6469999999999998e-08
+    },
+    {
+      "fname": "ramp.3266.dump.json",
+      "temp": 805,
+      "flipTime": 4.3699e-08
+    },
+    {
+      "fname": "ramp.3951.dump.json",
+      "temp": 805,
+      "flipTime": 3.12e-08
+    },
+    {
+      "fname": "ramp.7020.dump.json",
+      "temp": 805,
+      "flipTime": 3.2714e-08
+    },
+    {
+      "fname": "ramp.7161.dump.json",
+      "temp": 805,
+      "flipTime": 9.119e-09
+    },
+    {
+      "fname": "ramp.2902.dump.json",
+      "temp": 805,
+      "flipTime": 1.0775e-08
+    },
+    {
+      "fname": "ramp.5108.dump.json",
+      "temp": 805,
+      "flipTime": 3.9061e-08
+    },
+    {
+      "fname": "ramp.8557.dump.json",
+      "temp": 805,
+      "flipTime": 1.2902e-08
+    },
+    {
+      "fname": "ramp.516.dump.json",
+      "temp": 805,
+      "flipTime": 4.62e-10
+    },
+    {
+      "fname": "ramp.5975.dump.json",
+      "temp": 805,
+      "flipTime": 4.7216e-08
+    },
+    {
+      "fname": "ramp.7266.dump.json",
+      "temp": 805,
+      "flipTime": 1.4278e-08
+    },
+    {
+      "fname": "ramp.4185.dump.json",
+      "temp": 805,
+      "flipTime": 1.1403999999999999e-08
+    },
+    {
+      "fname": "ramp.1423.dump.json",
+      "temp": 805,
+      "flipTime": 6.2899999999999996e-09
+    },
+    {
+      "fname": "ramp.685.dump.json",
+      "temp": 805,
+      "flipTime": 1.6556e-08
+    },
+    {
+      "fname": "ramp.6347.dump.json",
+      "temp": 805,
+      "flipTime": 2.9017e-08
+    },
+    {
+      "fname": "ramp.6506.dump.json",
+      "temp": 805,
+      "flipTime": 5.663e-09
+    },
+    {
+      "fname": "ramp.1224.dump.json",
+      "temp": 805,
+      "flipTime": 6.11e-10
+    },
+    {
+      "fname": "ramp.4230.dump.json",
+      "temp": 805,
+      "flipTime": 1.8812e-08
+    },
+    {
+      "fname": "ramp.7542.dump.json",
+      "temp": 805,
+      "flipTime": 1.2912e-08
+    },
+    {
+      "fname": "ramp.567.dump.json",
+      "temp": 805,
+      "flipTime": 3.675e-09
+    },
+    {
+      "fname": "ramp.9152.dump.json",
+      "temp": 805,
+      "flipTime": 8.5006e-08
+    },
+    {
+      "fname": "ramp.3176.dump.json",
+      "temp": 805,
+      "flipTime": 1.2465e-08
+    },
+    {
+      "fname": "ramp.8188.dump.json",
+      "temp": 805,
+      "flipTime": 4.741e-09
+    },
+    {
+      "fname": "ramp.6390.dump.json",
+      "temp": 805,
+      "flipTime": 2.2017e-08
+    },
+    {
+      "fname": "ramp.7939.dump.json",
+      "temp": 805,
+      "flipTime": 8.7449e-08
+    },
+    {
+      "fname": "ramp.5769.dump.json",
+      "temp": 805,
+      "flipTime": 5.397e-09
+    },
+    {
+      "fname": "ramp.1367.dump.json",
+      "temp": 805,
+      "flipTime": 2.6514e-08
+    },
+    {
+      "fname": "ramp.6252.dump.json",
+      "temp": 805,
+      "flipTime": 7.81e-10
+    },
+    {
+      "fname": "ramp.1730.dump.json",
+      "temp": 805,
+      "flipTime": 3.0168e-08
+    },
+    {
+      "fname": "ramp.3239.dump.json",
+      "temp": 805,
+      "flipTime": 3.4752e-08
+    },
+    {
+      "fname": "ramp.3166.dump.json",
+      "temp": 805,
+      "flipTime": 7.2268e-08
+    },
+    {
+      "fname": "ramp.8297.dump.json",
+      "temp": 805,
+      "flipTime": 1.8162e-08
+    },
+    {
+      "fname": "ramp.942.dump.json",
+      "temp": 805,
+      "flipTime": 7.4631e-08
+    },
+    {
+      "fname": "ramp.2889.dump.json",
+      "temp": 805,
+      "flipTime": 5.1467e-08
+    },
+    {
+      "fname": "ramp.6081.dump.json",
+      "temp": 805,
+      "flipTime": 2.3974999999999998e-08
+    },
+    {
+      "fname": "ramp.2027.dump.json",
+      "temp": 805,
+      "flipTime": 5.9964e-08
+    },
+    {
+      "fname": "ramp.8445.dump.json",
+      "temp": 805,
+      "flipTime": 4.9949e-08
+    },
+    {
+      "fname": "ramp.5286.dump.json",
+      "temp": 805,
+      "flipTime": 5.4035e-08
+    },
+    {
+      "fname": "ramp.7611.dump.json",
+      "temp": 805,
+      "flipTime": 3.8002e-08
+    },
+    {
+      "fname": "ramp.826.dump.json",
+      "temp": 805,
+      "flipTime": 2.4925e-08
+    },
+    {
+      "fname": "ramp.6810.dump.json",
+      "temp": 805,
+      "flipTime": 5.87e-09
+    },
+    {
+      "fname": "ramp.1760.dump.json",
+      "temp": 805,
+      "flipTime": 4.9636e-08
+    },
+    {
+      "fname": "ramp.6453.dump.json",
+      "temp": 805,
+      "flipTime": 2.495e-08
+    },
+    {
+      "fname": "ramp.713.dump.json",
+      "temp": 805,
+      "flipTime": 8.398e-09
+    },
+    {
+      "fname": "ramp.333.dump.json",
+      "temp": 930,
+      "flipTime": 0
+    },
+    {
+      "fname": "ramp.31.dump.json",
+      "temp": 930,
+      "flipTime": 5.006e-09
+    },
+    {
+      "fname": "ramp.303.dump.json",
+      "temp": 930,
+      "flipTime": 6.246e-09
+    },
+    {
+      "fname": "ramp.101.dump.json",
+      "temp": 930,
+      "flipTime": 2.42e-09
+    },
+    {
+      "fname": "ramp.20.dump.json",
+      "temp": 930,
+      "flipTime": 7.48e-10
+    },
+    {
+      "fname": "ramp.222.dump.json",
+      "temp": 930,
+      "flipTime": 2.822e-09
+    },
+    {
+      "fname": "ramp.11.dump.json",
+      "temp": 930,
+      "flipTime": 2.965e-09
+    },
+    {
+      "fname": "ramp.12.dump.json",
+      "temp": 930,
+      "flipTime": 2.783e-09
+    },
+    {
+      "fname": "ramp.23.dump.json",
+      "temp": 930,
+      "flipTime": 1.63e-09
+    },
+    {
+      "fname": "ramp.15.dump.json",
+      "temp": 930,
+      "flipTime": 5.649e-09
+    },
+    {
+      "fname": "ramp.808.dump.json",
+      "temp": 930,
+      "flipTime": 4.79e-10
+    },
+    {
+      "fname": "ramp.736.dump.json",
+      "temp": 930,
+      "flipTime": 6.912e-09
+    },
+    {
+      "fname": "ramp.350.dump.json",
+      "temp": 930,
+      "flipTime": 3.978e-09
+    },
+    {
+      "fname": "ramp.606.dump.json",
+      "temp": 930,
+      "flipTime": 6.54e-09
+    },
+    {
+      "fname": "ramp.392.dump.json",
+      "temp": 930,
+      "flipTime": 1.0999999999999999e-11
+    },
+    {
+      "fname": "ramp.444.dump.json",
+      "temp": 930,
+      "flipTime": 0
+    },
+    {
+      "fname": "ramp.25.dump.json",
+      "temp": 930,
+      "flipTime": 5e-09
+    },
+    {
+      "fname": "ramp.888.dump.json",
+      "temp": 930,
+      "flipTime": 2.117e-09
+    },
+    {
+      "fname": "ramp.29.dump.json",
+      "temp": 930,
+      "flipTime": 1.704e-09
+    },
+    {
+      "fname": "ramp.909.dump.json",
+      "temp": 930,
+      "flipTime": 5.5e-10
+    },
+    {
+      "fname": "ramp.707.dump.json",
+      "temp": 930,
+      "flipTime": 2.4019999999999998e-09
+    },
+    {
+      "fname": "ramp.555.dump.json",
+      "temp": 930,
+      "flipTime": 4.942e-09
+    },
+    {
+      "fname": "ramp.22.dump.json",
+      "temp": 930,
+      "flipTime": 5.2759999999999996e-09
+    },
+    {
+      "fname": "ramp.24.dump.json",
+      "temp": 930,
+      "flipTime": 1.538e-09
+    },
+    {
+      "fname": "ramp.957.dump.json",
+      "temp": 930,
+      "flipTime": 1.544e-09
+    },
+    {
+      "fname": "ramp.32.dump.json",
+      "temp": 930,
+      "flipTime": 7.63e-10
+    },
+    {
+      "fname": "ramp.26.dump.json",
+      "temp": 930,
+      "flipTime": 1.0499999999999999e-09
+    },
+    {
+      "fname": "ramp.111.dump.json",
+      "temp": 930,
+      "flipTime": 4.999e-09
+    },
+    {
+      "fname": "ramp.17.dump.json",
+      "temp": 930,
+      "flipTime": 9.46e-10
+    },
+    {
+      "fname": "ramp.505.dump.json",
+      "temp": 930,
+      "flipTime": 5.0249999999999995e-09
+    },
+    {
+      "fname": "ramp.21.dump.json",
+      "temp": 930,
+      "flipTime": 1.247e-09
+    },
+    {
+      "fname": "ramp.16.dump.json",
+      "temp": 930,
+      "flipTime": 1.583e-09
+    },
+    {
+      "fname": "ramp.777.dump.json",
+      "temp": 930,
+      "flipTime": 7.16e-10
+    },
+    {
+      "fname": "ramp.202.dump.json",
+      "temp": 930,
+      "flipTime": 2.7e-11
+    },
+    {
+      "fname": "ramp.30.dump.json",
+      "temp": 930,
+      "flipTime": 7.699999999999999e-11
+    },
+    {
+      "fname": "ramp.434.dump.json",
+      "temp": 930,
+      "flipTime": 2.467e-09
+    },
+    {
+      "fname": "ramp.18.dump.json",
+      "temp": 930,
+      "flipTime": 5.253e-09
+    },
+    {
+      "fname": "ramp.27.dump.json",
+      "temp": 930,
+      "flipTime": 3.969e-09
+    },
+    {
+      "fname": "ramp.19.dump.json",
+      "temp": 930,
+      "flipTime": 1.134e-09
+    },
+    {
+      "fname": "ramp.13.dump.json",
+      "temp": 930,
+      "flipTime": 7.68e-10
+    },
+    {
+      "fname": "ramp.10.dump.json",
+      "temp": 930,
+      "flipTime": 1.244e-09
+    },
+    {
+      "fname": "ramp.14.dump.json",
+      "temp": 930,
+      "flipTime": 8.495e-09
+    },
+    {
+      "fname": "ramp.346.dump.json",
+      "temp": 930,
+      "flipTime": 7.89e-10
+    },
+    {
+      "fname": "ramp.404.dump.json",
+      "temp": 930,
+      "flipTime": 2.105e-09
+    },
+    {
+      "fname": "ramp.28.dump.json",
+      "temp": 930,
+      "flipTime": 1.006e-09
+    },
+    {
+      "fname": "ramp.999.dump.json",
+      "temp": 930,
+      "flipTime": 1.44e-09
+    },
+    {
+      "fname": "ramp.142.dump.json",
+      "temp": 930,
+      "flipTime": 5.51e-10
+    },
+    {
+      "fname": "ramp.873.dump.json",
+      "temp": 930,
+      "flipTime": 4.961e-09
+    },
+    {
+      "fname": "ramp.314.dump.json",
+      "temp": 930,
+      "flipTime": 2.5e-10
+    },
+    {
+      "fname": "ramp.666.dump.json",
+      "temp": 930,
+      "flipTime": 3.41e-10
+    },
+    {
+      "fname": "ramp.4691.dump.json",
+      "temp": 830,
+      "flipTime": 3.622e-09
+    },
+    {
+      "fname": "ramp.2428.dump.json",
+      "temp": 830,
+      "flipTime": 3.708e-09
+    },
+    {
+      "fname": "ramp.1334.dump.json",
+      "temp": 830,
+      "flipTime": 6.529e-09
+    },
+    {
+      "fname": "ramp.5779.dump.json",
+      "temp": 830,
+      "flipTime": 1.7524e-08
+    },
+    {
+      "fname": "ramp.4562.dump.json",
+      "temp": 830,
+      "flipTime": 4.771e-09
+    },
+    {
+      "fname": "ramp.1642.dump.json",
+      "temp": 830,
+      "flipTime": 5.3233e-08
+    },
+    {
+      "fname": "ramp.2190.dump.json",
+      "temp": 830,
+      "flipTime": 2.28e-09
+    },
+    {
+      "fname": "ramp.320.dump.json",
+      "temp": 830,
+      "flipTime": 2.7349999999999998e-09
+    },
+    {
+      "fname": "ramp.7138.dump.json",
+      "temp": 830,
+      "flipTime": 1.321e-08
+    },
+    {
+      "fname": "ramp.4201.dump.json",
+      "temp": 830,
+      "flipTime": 6.444e-09
+    },
+    {
+      "fname": "ramp.5131.dump.json",
+      "temp": 830,
+      "flipTime": 1.6697e-08
+    },
+    {
+      "fname": "ramp.8716.dump.json",
+      "temp": 830,
+      "flipTime": 2.0638e-08
+    },
+    {
+      "fname": "ramp.3299.dump.json",
+      "temp": 830,
+      "flipTime": 2.263e-09
+    },
+    {
+      "fname": "ramp.905.dump.json",
+      "temp": 830,
+      "flipTime": 4.81e-09
+    },
+    {
+      "fname": "ramp.733.dump.json",
+      "temp": 830,
+      "flipTime": 1.049e-09
+    },
+    {
+      "fname": "ramp.4522.dump.json",
+      "temp": 830,
+      "flipTime": 4.3622e-08
+    },
+    {
+      "fname": "ramp.5057.dump.json",
+      "temp": 830,
+      "flipTime": 3.12e-09
+    },
+    {
+      "fname": "ramp.6004.dump.json",
+      "temp": 830,
+      "flipTime": 5.734e-09
+    },
+    {
+      "fname": "ramp.548.dump.json",
+      "temp": 830,
+      "flipTime": 1.4301e-08
+    },
+    {
+      "fname": "ramp.6074.dump.json",
+      "temp": 830,
+      "flipTime": 5.014e-08
+    },
+    {
+      "fname": "ramp.1680.dump.json",
+      "temp": 830,
+      "flipTime": 5.9787e-08
+    },
+    {
+      "fname": "ramp.1395.dump.json",
+      "temp": 830,
+      "flipTime": 9.382e-09
+    },
+    {
+      "fname": "ramp.1468.dump.json",
+      "temp": 830,
+      "flipTime": 1.34e-10
+    },
+    {
+      "fname": "ramp.3293.dump.json",
+      "temp": 830,
+      "flipTime": 2.9654e-08
+    },
+    {
+      "fname": "ramp.7362.dump.json",
+      "temp": 830,
+      "flipTime": 3.0821e-08
+    },
+    {
+      "fname": "ramp.3912.dump.json",
+      "temp": 830,
+      "flipTime": 5.1139999999999995e-09
+    },
+    {
+      "fname": "ramp.6267.dump.json",
+      "temp": 830,
+      "flipTime": 1.2511e-08
+    },
+    {
+      "fname": "ramp.7990.dump.json",
+      "temp": 830,
+      "flipTime": 2.5e-08
+    },
+    {
+      "fname": "ramp.4603.dump.json",
+      "temp": 830,
+      "flipTime": 3.8645e-08
+    },
+    {
+      "fname": "ramp.8829.dump.json",
+      "temp": 830,
+      "flipTime": 1.5824e-08
+    },
+    {
+      "fname": "ramp.9968.dump.json",
+      "temp": 830,
+      "flipTime": 2.9561e-08
+    },
+    {
+      "fname": "ramp.185.dump.json",
+      "temp": 830,
+      "flipTime": 1.9503e-08
+    },
+    {
+      "fname": "ramp.6877.dump.json",
+      "temp": 830,
+      "flipTime": 1.1352e-08
+    },
+    {
+      "fname": "ramp.9716.dump.json",
+      "temp": 830,
+      "flipTime": 1.1267e-08
+    },
+    {
+      "fname": "ramp.7567.dump.json",
+      "temp": 830,
+      "flipTime": 2.5013999999999998e-08
+    },
+    {
+      "fname": "ramp.635.dump.json",
+      "temp": 830,
+      "flipTime": 8.538e-09
+    },
+    {
+      "fname": "ramp.2871.dump.json",
+      "temp": 830,
+      "flipTime": 2.644e-08
+    },
+    {
+      "fname": "ramp.3355.dump.json",
+      "temp": 830,
+      "flipTime": 2.4977e-08
+    },
+    {
+      "fname": "ramp.797.dump.json",
+      "temp": 830,
+      "flipTime": 1.5366e-08
+    },
+    {
+      "fname": "ramp.9730.dump.json",
+      "temp": 830,
+      "flipTime": 5.0212e-08
+    },
+    {
+      "fname": "ramp.5225.dump.json",
+      "temp": 830,
+      "flipTime": 2.4959e-08
+    },
+    {
+      "fname": "ramp.5120.dump.json",
+      "temp": 830,
+      "flipTime": 2.737e-09
+    },
+    {
+      "fname": "ramp.4465.dump.json",
+      "temp": 830,
+      "flipTime": 1.2665999999999999e-08
+    },
+    {
+      "fname": "ramp.7679.dump.json",
+      "temp": 830,
+      "flipTime": 1.6909e-08
+    },
+    {
+      "fname": "ramp.3279.dump.json",
+      "temp": 830,
+      "flipTime": 7.3e-10
+    },
+    {
+      "fname": "ramp.8992.dump.json",
+      "temp": 830,
+      "flipTime": 1.953e-08
+    },
+    {
+      "fname": "ramp.8733.dump.json",
+      "temp": 830,
+      "flipTime": 1.8629e-08
+    },
+    {
+      "fname": "ramp.6401.dump.json",
+      "temp": 830,
+      "flipTime": 1.25e-08
+    },
+    {
+      "fname": "ramp.721.dump.json",
+      "temp": 1400,
+      "flipTime": 2.559e-09
+    },
+    {
+      "fname": "ramp.125.dump.json",
+      "temp": 1400,
+      "flipTime": 3.2e-11
+    },
+    {
+      "fname": "ramp.113.dump.json",
+      "temp": 1400,
+      "flipTime": 4.994e-09
+    },
+    {
+      "fname": "ramp.524.dump.json",
+      "temp": 1400,
+      "flipTime": 3.5e-11
+    },
+    {
+      "fname": "ramp.026.dump.json",
+      "temp": 1400,
+      "flipTime": 7.713e-09
+    },
+    {
+      "fname": "ramp.032.dump.json",
+      "temp": 1400,
+      "flipTime": 4.514e-09
+    },
+    {
+      "fname": "ramp.417.dump.json",
+      "temp": 1400,
+      "flipTime": 1.313e-09
+    },
+    {
+      "fname": "ramp.615.dump.json",
+      "temp": 1400,
+      "flipTime": 5.44e-10
+    },
+    {
+      "fname": "ramp.120.dump.json",
+      "temp": 1400,
+      "flipTime": 5.305e-09
+    },
+    {
+      "fname": "ramp.122.dump.json",
+      "temp": 1400,
+      "flipTime": 4.913e-09
+    },
+    {
+      "fname": "ramp.310.dump.json",
+      "temp": 1400,
+      "flipTime": 4.03e-10
+    },
+    {
+      "fname": "ramp.129.dump.json",
+      "temp": 1400,
+      "flipTime": 3.062e-09
+    },
+    {
+      "fname": "ramp.831.dump.json",
+      "temp": 1400,
+      "flipTime": 3.117e-09
+    },
+    {
+      "fname": "ramp.123.dump.json",
+      "temp": 1400,
+      "flipTime": 6.3e-11
+    },
+    {
+      "fname": "ramp.014.dump.json",
+      "temp": 1400,
+      "flipTime": 8.799999999999999e-11
+    },
+    {
+      "fname": "ramp.712.dump.json",
+      "temp": 1400,
+      "flipTime": 1.78e-10
+    },
+    {
+      "fname": "ramp.216.dump.json",
+      "temp": 1400,
+      "flipTime": 5.5699999999999996e-09
+    },
+    {
+      "fname": "ramp.128.dump.json",
+      "temp": 1400,
+      "flipTime": 9e-11
+    },
+    {
+      "fname": "ramp.127.dump.json",
+      "temp": 1400,
+      "flipTime": 2.183e-09
+    },
+    {
+      "fname": "ramp.611.dump.json",
+      "temp": 1400,
+      "flipTime": 2.6e-11
+    },
+    {
+      "fname": "ramp.319.dump.json",
+      "temp": 1400,
+      "flipTime": 1.233e-09
+    },
+    {
+      "fname": "ramp.438.dump.json",
+      "temp": 1400,
+      "flipTime": 3e-12
+    },
+    {
+      "fname": "ramp.630.dump.json",
+      "temp": 1400,
+      "flipTime": 6.86e-10
+    },
+    {
+      "fname": "ramp.1524.dump.json",
+      "temp": 1200,
+      "flipTime": 2.482e-09
+    },
+    {
+      "fname": "ramp.1026.dump.json",
+      "temp": 1200,
+      "flipTime": 1.77e-10
+    },
+    {
+      "fname": "ramp.2128.dump.json",
+      "temp": 1200,
+      "flipTime": 1.363e-09
+    },
+    {
+      "fname": "ramp.1216.dump.json",
+      "temp": 1200,
+      "flipTime": 3.11e-10
+    },
+    {
+      "fname": "ramp.4129.dump.json",
+      "temp": 1200,
+      "flipTime": 1.71e-10
+    },
+    {
+      "fname": "ramp.1120.dump.json",
+      "temp": 1200,
+      "flipTime": 4e-11
+    },
+    {
+      "fname": "ramp.1630.dump.json",
+      "temp": 1200,
+      "flipTime": 2.647e-09
+    },
+    {
+      "fname": "ramp.1032.dump.json",
+      "temp": 1200,
+      "flipTime": 3e-12
+    },
+    {
+      "fname": "ramp.9122.dump.json",
+      "temp": 1200,
+      "flipTime": 5.003e-09
+    },
+    {
+      "fname": "ramp.1310.dump.json",
+      "temp": 1200,
+      "flipTime": 3.059e-09
+    },
+    {
+      "fname": "ramp.6125.dump.json",
+      "temp": 1200,
+      "flipTime": 5.44e-09
+    },
+    {
+      "fname": "ramp.8113.dump.json",
+      "temp": 1200,
+      "flipTime": 8.4e-11
+    },
+    {
+      "fname": "ramp.2127.dump.json",
+      "temp": 1200,
+      "flipTime": 5e-12
+    },
+    {
+      "fname": "ramp.1615.dump.json",
+      "temp": 1200,
+      "flipTime": 4.898e-09
+    },
+    {
+      "fname": "ramp.3123.dump.json",
+      "temp": 1200,
+      "flipTime": 8.155e-09
+    },
+    {
+      "fname": "ramp.1611.dump.json",
+      "temp": 1200,
+      "flipTime": 8.642e-09
+    },
+    {
+      "fname": "ramp.1831.dump.json",
+      "temp": 1200,
+      "flipTime": 1.2e-11
+    },
+    {
+      "fname": "ramp.1721.dump.json",
+      "temp": 1200,
+      "flipTime": 8.7e-11
+    },
+    {
+      "fname": "ramp.1014.dump.json",
+      "temp": 1200,
+      "flipTime": 3e-12
+    },
+    {
+      "fname": "ramp.1712.dump.json",
+      "temp": 1200,
+      "flipTime": 7.74e-09
+    },
+    {
+      "fname": "ramp.1417.dump.json",
+      "temp": 1200,
+      "flipTime": 6.24e-10
+    },
+    {
+      "fname": "ramp.1319.dump.json",
+      "temp": 1200,
+      "flipTime": 5.563e-09
+    },
+    {
+      "fname": "ramp.1438.dump.json",
+      "temp": 1200,
+      "flipTime": 6.508e-09
+    },
+    {
+      "fname": "ramp.2723.dump.json",
+      "temp": 880,
+      "flipTime": 2.5169e-08
+    },
+    {
+      "fname": "ramp.8838.dump.json",
+      "temp": 880,
+      "flipTime": 4.997e-08
+    },
+    {
+      "fname": "ramp.565.dump.json",
+      "temp": 880,
+      "flipTime": 1.6789999999999999e-09
+    },
+    {
+      "fname": "ramp.1917.dump.json",
+      "temp": 880,
+      "flipTime": 5.0284e-08
+    },
+    {
+      "fname": "ramp.5099.dump.json",
+      "temp": 880,
+      "flipTime": 2.4953e-08
+    },
+    {
+      "fname": "ramp.1536.dump.json",
+      "temp": 880,
+      "flipTime": 1.1549e-08
+    },
+    {
+      "fname": "ramp.655.dump.json",
+      "temp": 880,
+      "flipTime": 5.6253e-08
+    },
+    {
+      "fname": "ramp.8119.dump.json",
+      "temp": 880,
+      "flipTime": 1.0621999999999999e-08
+    },
+    {
+      "fname": "ramp.9705.dump.json",
+      "temp": 880,
+      "flipTime": 1.0829999999999999e-09
+    },
+    {
+      "fname": "ramp.998.dump.json",
+      "temp": 880,
+      "flipTime": 4.9974e-08
+    },
+    {
+      "fname": "ramp.5526.dump.json",
+      "temp": 880,
+      "flipTime": 3.64e-09
+    },
+    {
+      "fname": "ramp.9037.dump.json",
+      "temp": 880,
+      "flipTime": 8.37e-09
+    },
+    {
+      "fname": "ramp.6379.dump.json",
+      "temp": 880,
+      "flipTime": 5.496e-09
+    },
+    {
+      "fname": "ramp.6852.dump.json",
+      "temp": 880,
+      "flipTime": 1.2948999999999999e-08
+    },
+    {
+      "fname": "ramp.2155.dump.json",
+      "temp": 880,
+      "flipTime": 1.5392e-08
+    },
+    {
+      "fname": "ramp.1199.dump.json",
+      "temp": 880,
+      "flipTime": 4.9982e-08
+    },
+    {
+      "fname": "ramp.8053.dump.json",
+      "temp": 880,
+      "flipTime": 1.3679e-08
+    },
+    {
+      "fname": "ramp.9415.dump.json",
+      "temp": 880,
+      "flipTime": 2.068e-09
+    },
+    {
+      "fname": "ramp.5642.dump.json",
+      "temp": 880,
+      "flipTime": 5.0023e-08
+    },
+    {
+      "fname": "ramp.7185.dump.json",
+      "temp": 880,
+      "flipTime": 2.3669999999999998e-09
+    },
+    {
+      "fname": "ramp.4108.dump.json",
+      "temp": 880,
+      "flipTime": 8.665e-09
+    },
+    {
+      "fname": "ramp.7583.dump.json",
+      "temp": 880,
+      "flipTime": 4.9871e-08
+    },
+    {
+      "fname": "ramp.388.dump.json",
+      "temp": 880,
+      "flipTime": 8.398e-09
+    },
+    {
+      "fname": "ramp.7817.dump.json",
+      "temp": 880,
+      "flipTime": 1.5456e-08
+    },
+    {
+      "fname": "ramp.8978.dump.json",
+      "temp": 880,
+      "flipTime": 1.377e-09
+    },
+    {
+      "fname": "ramp.4712.dump.json",
+      "temp": 880,
+      "flipTime": 2.5343e-08
+    },
+    {
+      "fname": "ramp.5762.dump.json",
+      "temp": 880,
+      "flipTime": 7.299999999999999e-11
+    },
+    {
+      "fname": "ramp.8582.dump.json",
+      "temp": 880,
+      "flipTime": 1.8732e-08
+    },
+    {
+      "fname": "ramp.6886.dump.json",
+      "temp": 880,
+      "flipTime": 3.523e-09
+    },
+    {
+      "fname": "ramp.7728.dump.json",
+      "temp": 880,
+      "flipTime": 7.01e-10
+    },
+    {
+      "fname": "ramp.6918.dump.json",
+      "temp": 880,
+      "flipTime": 6.823e-09
+    },
+    {
+      "fname": "ramp.7868.dump.json",
+      "temp": 880,
+      "flipTime": 6.3181e-08
+    },
+    {
+      "fname": "ramp.8798.dump.json",
+      "temp": 880,
+      "flipTime": 2.2549999999999998e-09
+    },
+    {
+      "fname": "ramp.104.dump.json",
+      "temp": 880,
+      "flipTime": 1.6822e-08
+    },
+    {
+      "fname": "ramp.6324.dump.json",
+      "temp": 880,
+      "flipTime": 7.84e-10
+    },
+    {
+      "fname": "ramp.8758.dump.json",
+      "temp": 880,
+      "flipTime": 2.6573e-08
+    },
+    {
+      "fname": "ramp.5572.dump.json",
+      "temp": 880,
+      "flipTime": 2.36e-09
+    },
+    {
+      "fname": "ramp.5980.dump.json",
+      "temp": 880,
+      "flipTime": 1.5629999999999999e-09
+    },
+    {
+      "fname": "ramp.8990.dump.json",
+      "temp": 880,
+      "flipTime": 1.3595e-08
+    },
+    {
+      "fname": "ramp.6163.dump.json",
+      "temp": 880,
+      "flipTime": 2.0296e-08
+    },
+    {
+      "fname": "ramp.8026.dump.json",
+      "temp": 880,
+      "flipTime": 4.772e-09
+    },
+    {
+      "fname": "ramp.3.dump.json",
+      "temp": 880,
+      "flipTime": 1.27e-10
+    },
+    {
+      "fname": "ramp.4137.dump.json",
+      "temp": 880,
+      "flipTime": 1.4e-09
+    },
+    {
+      "fname": "ramp.2539.dump.json",
+      "temp": 880,
+      "flipTime": 1.1737e-08
+    },
+    {
+      "fname": "ramp.8737.dump.json",
+      "temp": 880,
+      "flipTime": 5.0427e-08
+    },
+    {
+      "fname": "ramp.4619.dump.json",
+      "temp": 880,
+      "flipTime": 9.502999999999999e-09
+    },
+    {
+      "fname": "ramp.6286.dump.json",
+      "temp": 880,
+      "flipTime": 7.844e-09
+    },
+    {
+      "fname": "ramp.6955.dump.json",
+      "temp": 880,
+      "flipTime": 1.267e-08
+    },
+    {
+      "fname": "ramp.2337.dump.json",
+      "temp": 905,
+      "flipTime": 1.19e-09
+    },
+    {
+      "fname": "ramp.4931.dump.json",
+      "temp": 905,
+      "flipTime": 1.558e-09
+    },
+    {
+      "fname": "ramp.9388.dump.json",
+      "temp": 905,
+      "flipTime": 2.0312999999999998e-08
+    },
+    {
+      "fname": "ramp.3082.dump.json",
+      "temp": 905,
+      "flipTime": 4.156e-09
+    },
+    {
+      "fname": "ramp.2102.dump.json",
+      "temp": 905,
+      "flipTime": 2.4975999999999998e-08
+    },
+    {
+      "fname": "ramp.9257.dump.json",
+      "temp": 905,
+      "flipTime": 9.0564e-08
+    },
+    {
+      "fname": "ramp.4831.dump.json",
+      "temp": 905,
+      "flipTime": 1.2493e-08
+    },
+    {
+      "fname": "ramp.6086.dump.json",
+      "temp": 905,
+      "flipTime": 1.4248e-08
+    },
+    {
+      "fname": "ramp.9623.dump.json",
+      "temp": 905,
+      "flipTime": 1.5589999999999999e-09
+    },
+    {
+      "fname": "ramp.3290.dump.json",
+      "temp": 905,
+      "flipTime": 9.358e-09
+    },
+    {
+      "fname": "ramp.511.dump.json",
+      "temp": 905,
+      "flipTime": 4.77e-10
+    },
+    {
+      "fname": "ramp.3892.dump.json",
+      "temp": 905,
+      "flipTime": 5.08e-10
+    },
+    {
+      "fname": "ramp.6953.dump.json",
+      "temp": 905,
+      "flipTime": 6.2359999999999996e-09
+    },
+    {
+      "fname": "ramp.8761.dump.json",
+      "temp": 905,
+      "flipTime": 2.243e-09
+    },
+    {
+      "fname": "ramp.8842.dump.json",
+      "temp": 905,
+      "flipTime": 7.814999999999999e-09
+    },
+    {
+      "fname": "ramp.6355.dump.json",
+      "temp": 905,
+      "flipTime": 0
+    },
+    {
+      "fname": "ramp.9203.dump.json",
+      "temp": 905,
+      "flipTime": 5.0772e-08
+    },
+    {
+      "fname": "ramp.5008.dump.json",
+      "temp": 905,
+      "flipTime": 6.3e-09
+    },
+    {
+      "fname": "ramp.6188.dump.json",
+      "temp": 905,
+      "flipTime": 7.413e-09
+    },
+    {
+      "fname": "ramp.3228.dump.json",
+      "temp": 905,
+      "flipTime": 2.4968e-08
+    },
+    {
+      "fname": "ramp.9154.dump.json",
+      "temp": 905,
+      "flipTime": 3.144e-09
+    },
+    {
+      "fname": "ramp.3550.dump.json",
+      "temp": 905,
+      "flipTime": 1.3189999999999999e-09
+    },
+    {
+      "fname": "ramp.8364.dump.json",
+      "temp": 905,
+      "flipTime": 2.395e-09
+    },
+    {
+      "fname": "ramp.7714.dump.json",
+      "temp": 905,
+      "flipTime": 1.0916e-08
+    },
+    {
+      "fname": "ramp.9124.dump.json",
+      "temp": 905,
+      "flipTime": 3.927e-09
+    },
+    {
+      "fname": "ramp.4778.dump.json",
+      "temp": 905,
+      "flipTime": 5.859999999999999e-10
+    },
+    {
+      "fname": "ramp.7031.dump.json",
+      "temp": 905,
+      "flipTime": 1.219e-09
+    },
+    {
+      "fname": "ramp.5011.dump.json",
+      "temp": 905,
+      "flipTime": 8.673e-09
+    },
+    {
+      "fname": "ramp.3553.dump.json",
+      "temp": 905,
+      "flipTime": 1.4682e-08
+    },
+    {
+      "fname": "ramp.9817.dump.json",
+      "temp": 905,
+      "flipTime": 5.005e-08
+    },
+    {
+      "fname": "ramp.2866.dump.json",
+      "temp": 905,
+      "flipTime": 2.122e-09
+    },
+    {
+      "fname": "ramp.9199.dump.json",
+      "temp": 905,
+      "flipTime": 4.2079999999999995e-09
+    },
+    {
+      "fname": "ramp.9668.dump.json",
+      "temp": 905,
+      "flipTime": 2.3789999999999997e-09
+    },
+    {
+      "fname": "ramp.5277.dump.json",
+      "temp": 905,
+      "flipTime": 5.9959999999999996e-09
+    },
+    {
+      "fname": "ramp.4825.dump.json",
+      "temp": 905,
+      "flipTime": 2.6549e-08
+    },
+    {
+      "fname": "ramp.1709.dump.json",
+      "temp": 905,
+      "flipTime": 4.9962e-08
+    },
+    {
+      "fname": "ramp.1693.dump.json",
+      "temp": 905,
+      "flipTime": 5.5e-10
+    },
+    {
+      "fname": "ramp.4972.dump.json",
+      "temp": 905,
+      "flipTime": 1.288e-08
+    },
+    {
+      "fname": "ramp.8841.dump.json",
+      "temp": 905,
+      "flipTime": 9.589999999999999e-10
+    },
+    {
+      "fname": "ramp.7040.dump.json",
+      "temp": 905,
+      "flipTime": 5.0208999999999996e-08
+    },
+    {
+      "fname": "ramp.3155.dump.json",
+      "temp": 905,
+      "flipTime": 5.204e-09
+    },
+    {
+      "fname": "ramp.1104.dump.json",
+      "temp": 905,
+      "flipTime": 1.0163e-08
+    },
+    {
+      "fname": "ramp.1302.dump.json",
+      "temp": 905,
+      "flipTime": 3.873e-09
+    },
+    {
+      "fname": "ramp.1257.dump.json",
+      "temp": 905,
+      "flipTime": 5.138e-08
+    },
+    {
+      "fname": "ramp.7136.dump.json",
+      "temp": 905,
+      "flipTime": 5.003e-08
+    },
+    {
+      "fname": "ramp.1772.dump.json",
+      "temp": 905,
+      "flipTime": 1.254e-09
+    }
+  ],
+  "3T": [
+    {
+      "fname": "ramp.1579.dump.json",
+      "temp": 695,
+      "flipTime": 3.404e-09
+    },
+    {
+      "fname": "ramp.1529.dump.json",
+      "temp": 695,
+      "flipTime": 5.2e-10
+    },
+    {
+      "fname": "ramp.7019.dump.json",
+      "temp": 695,
+      "flipTime": 1.7759999999999999e-09
+    },
+    {
+      "fname": "ramp.3088.dump.json",
+      "temp": 695,
+      "flipTime": 2.474e-09
+    },
+    {
+      "fname": "ramp.7535.dump.json",
+      "temp": 695,
+      "flipTime": 3.129e-08
+    },
+    {
+      "fname": "ramp.5099.dump.json",
+      "temp": 695,
+      "flipTime": 6.7e-11
+    },
+    {
+      "fname": "ramp.9191.dump.json",
+      "temp": 695,
+      "flipTime": 6.138e-09
+    },
+    {
+      "fname": "ramp.2420.dump.json",
+      "temp": 695,
+      "flipTime": 8.8e-10
+    },
+    {
+      "fname": "ramp.9956.dump.json",
+      "temp": 695,
+      "flipTime": 4.9984e-08
+    },
+    {
+      "fname": "ramp.8244.dump.json",
+      "temp": 695,
+      "flipTime": 5.4882e-08
+    },
+    {
+      "fname": "ramp.5092.dump.json",
+      "temp": 695,
+      "flipTime": 7.4e-10
+    },
+    {
+      "fname": "ramp.1054.dump.json",
+      "temp": 695,
+      "flipTime": 5.859999999999999e-10
+    },
+    {
+      "fname": "ramp.5185.dump.json",
+      "temp": 695,
+      "flipTime": 6.38e-10
+    },
+    {
+      "fname": "ramp.7743.dump.json",
+      "temp": 695,
+      "flipTime": 2.47e-09
+    },
+    {
+      "fname": "ramp.3759.dump.json",
+      "temp": 695,
+      "flipTime": 3.75e-08
+    },
+    {
+      "fname": "ramp.3496.dump.json",
+      "temp": 695,
+      "flipTime": 0
+    },
+    {
+      "fname": "ramp.9039.dump.json",
+      "temp": 695,
+      "flipTime": 6.63e-10
+    },
+    {
+      "fname": "ramp.3712.dump.json",
+      "temp": 695,
+      "flipTime": 2.352e-09
+    },
+    {
+      "fname": "ramp.4106.dump.json",
+      "temp": 695,
+      "flipTime": 2.245e-09
+    },
+    {
+      "fname": "ramp.8714.dump.json",
+      "temp": 695,
+      "flipTime": 2.8143e-08
+    },
+    {
+      "fname": "ramp.5587.dump.json",
+      "temp": 695,
+      "flipTime": 8.49e-10
+    },
+    {
+      "fname": "ramp.1416.dump.json",
+      "temp": 695,
+      "flipTime": 1.2527e-08
+    },
+    {
+      "fname": "ramp.6923.dump.json",
+      "temp": 695,
+      "flipTime": 2.5021e-08
+    },
+    {
+      "fname": "ramp.8715.dump.json",
+      "temp": 695,
+      "flipTime": 4.751e-09
+    },
+    {
+      "fname": "ramp.6624.dump.json",
+      "temp": 695,
+      "flipTime": 8.75e-10
+    },
+    {
+      "fname": "ramp.3323.dump.json",
+      "temp": 695,
+      "flipTime": 1.2344e-08
+    },
+    {
+      "fname": "ramp.9396.dump.json",
+      "temp": 695,
+      "flipTime": 5.0018e-08
+    },
+    {
+      "fname": "ramp.3294.dump.json",
+      "temp": 695,
+      "flipTime": 2.5054e-08
+    },
+    {
+      "fname": "ramp.9201.dump.json",
+      "temp": 695,
+      "flipTime": 2.654e-09
+    },
+    {
+      "fname": "ramp.4308.dump.json",
+      "temp": 695,
+      "flipTime": 6.92e-10
+    },
+    {
+      "fname": "ramp.7225.dump.json",
+      "temp": 695,
+      "flipTime": 1.524e-09
+    },
+    {
+      "fname": "ramp.6458.dump.json",
+      "temp": 695,
+      "flipTime": 5.0015e-08
+    },
+    {
+      "fname": "ramp.4314.dump.json",
+      "temp": 695,
+      "flipTime": 1.5629999999999999e-09
+    },
+    {
+      "fname": "ramp.8011.dump.json",
+      "temp": 695,
+      "flipTime": 1.4449999999999999e-09
+    },
+    {
+      "fname": "ramp.8801.dump.json",
+      "temp": 695,
+      "flipTime": 1.7429999999999999e-09
+    },
+    {
+      "fname": "ramp.1214.dump.json",
+      "temp": 695,
+      "flipTime": 4.123e-09
+    },
+    {
+      "fname": "ramp.4585.dump.json",
+      "temp": 695,
+      "flipTime": 6.19e-10
+    },
+    {
+      "fname": "ramp.4541.dump.json",
+      "temp": 695,
+      "flipTime": 1.254e-08
+    },
+    {
+      "fname": "ramp.4386.dump.json",
+      "temp": 695,
+      "flipTime": 1.4183e-08
+    },
+    {
+      "fname": "ramp.4252.dump.json",
+      "temp": 695,
+      "flipTime": 5.15e-10
+    },
+    {
+      "fname": "ramp.6637.dump.json",
+      "temp": 695,
+      "flipTime": 1.7409999999999999e-09
+    },
+    {
+      "fname": "ramp.8502.dump.json",
+      "temp": 695,
+      "flipTime": 2.334e-09
+    },
+    {
+      "fname": "ramp.2161.dump.json",
+      "temp": 695,
+      "flipTime": 2.391e-09
+    },
+    {
+      "fname": "ramp.3476.dump.json",
+      "temp": 695,
+      "flipTime": 1.2514e-08
+    },
+    {
+      "fname": "ramp.2748.dump.json",
+      "temp": 695,
+      "flipTime": 1.773e-09
+    },
+    {
+      "fname": "ramp.9452.dump.json",
+      "temp": 695,
+      "flipTime": 8.8285e-08
+    },
+    {
+      "fname": "ramp.4973.dump.json",
+      "temp": 695,
+      "flipTime": 2.849e-09
+    },
+    {
+      "fname": "ramp.2823.dump.json",
+      "temp": 695,
+      "flipTime": 1.2579999999999999e-08
+    },
+    {
+      "fname": "ramp.862.dump.json",
+      "temp": 1000,
+      "flipTime": 2.28e-10
+    },
+    {
+      "fname": "ramp.790.dump.json",
+      "temp": 1000,
+      "flipTime": 6.256e-09
+    },
+    {
+      "fname": "ramp.238.dump.json",
+      "temp": 1000,
+      "flipTime": 0
+    },
+    {
+      "fname": "ramp.974.dump.json",
+      "temp": 1000,
+      "flipTime": 3.915e-09
+    },
+    {
+      "fname": "ramp.602.dump.json",
+      "temp": 1000,
+      "flipTime": 1.43e-10
+    },
+    {
+      "fname": "ramp.112.dump.json",
+      "temp": 1000,
+      "flipTime": 3.223e-09
+    },
+    {
+      "fname": "ramp.725.dump.json",
+      "temp": 1000,
+      "flipTime": 3.125e-09
+    },
+    {
+      "fname": "ramp.087.dump.json",
+      "temp": 1000,
+      "flipTime": 1.14e-10
+    },
+    {
+      "fname": "ramp.246.dump.json",
+      "temp": 1000,
+      "flipTime": 3.125e-09
+    },
+    {
+      "fname": "ramp.152.dump.json",
+      "temp": 1000,
+      "flipTime": 2.527e-08
+    },
+    {
+      "fname": "ramp.737.dump.json",
+      "temp": 1000,
+      "flipTime": 1.765e-09
+    },
+    {
+      "fname": "ramp.856.dump.json",
+      "temp": 1000,
+      "flipTime": 4.9997e-08
+    },
+    {
+      "fname": "ramp.827.dump.json",
+      "temp": 1000,
+      "flipTime": 6.5e-11
+    },
+    {
+      "fname": "ramp.026.dump.json",
+      "temp": 1000,
+      "flipTime": 5.91e-10
+    },
+    {
+      "fname": "ramp.853.dump.json",
+      "temp": 1000,
+      "flipTime": 3.371e-09
+    },
+    {
+      "fname": "ramp.779.dump.json",
+      "temp": 1000,
+      "flipTime": 1e-12
+    },
+    {
+      "fname": "ramp.441.dump.json",
+      "temp": 1000,
+      "flipTime": 4.92e-10
+    },
+    {
+      "fname": "ramp.736.dump.json",
+      "temp": 1000,
+      "flipTime": 7.88e-10
+    },
+    {
+      "fname": "ramp.504.dump.json",
+      "temp": 1000,
+      "flipTime": 8.7e-11
+    },
+    {
+      "fname": "ramp.977.dump.json",
+      "temp": 1000,
+      "flipTime": 1.3789999999999999e-09
+    },
+    {
+      "fname": "ramp.950.dump.json",
+      "temp": 1000,
+      "flipTime": 5.0389e-08
+    },
+    {
+      "fname": "ramp.396.dump.json",
+      "temp": 1000,
+      "flipTime": 4.9504e-08
+    },
+    {
+      "fname": "ramp.847.dump.json",
+      "temp": 1000,
+      "flipTime": 1.5629999999999999e-09
+    },
+    {
+      "fname": "ramp.695.dump.json",
+      "temp": 1000,
+      "flipTime": 1.2897e-08
+    },
+    {
+      "fname": "ramp.159.dump.json",
+      "temp": 1000,
+      "flipTime": 1.574e-09
+    },
+    {
+      "fname": "ramp.820.dump.json",
+      "temp": 1000,
+      "flipTime": 7.89e-10
+    },
+    {
+      "fname": "ramp.769.dump.json",
+      "temp": 1000,
+      "flipTime": 1.2501e-08
+    },
+    {
+      "fname": "ramp.143.dump.json",
+      "temp": 1000,
+      "flipTime": 7.830999999999999e-09
+    },
+    {
+      "fname": "ramp.845.dump.json",
+      "temp": 1000,
+      "flipTime": 3.174e-09
+    },
+    {
+      "fname": "ramp.172.dump.json",
+      "temp": 1000,
+      "flipTime": 1.6e-11
+    },
+    {
+      "fname": "ramp.935.dump.json",
+      "temp": 1000,
+      "flipTime": 6.269399999999999e-08
+    },
+    {
+      "fname": "ramp.490.dump.json",
+      "temp": 1000,
+      "flipTime": 5.4791e-08
+    },
+    {
+      "fname": "ramp.720.dump.json",
+      "temp": 1000,
+      "flipTime": 2.5061e-08
+    },
+    {
+      "fname": "ramp.220.dump.json",
+      "temp": 1000,
+      "flipTime": 5.58e-10
+    },
+    {
+      "fname": "ramp.413.dump.json",
+      "temp": 1000,
+      "flipTime": 3.3e-11
+    },
+    {
+      "fname": "ramp.269.dump.json",
+      "temp": 1000,
+      "flipTime": 7.86e-10
+    },
+    {
+      "fname": "ramp.334.dump.json",
+      "temp": 1000,
+      "flipTime": 6.425e-09
+    },
+    {
+      "fname": "ramp.604.dump.json",
+      "temp": 1000,
+      "flipTime": 1.3e-11
+    },
+    {
+      "fname": "ramp.768.dump.json",
+      "temp": 1000,
+      "flipTime": 0
+    },
+    {
+      "fname": "ramp.214.dump.json",
+      "temp": 1000,
+      "flipTime": 6.2519999999999995e-09
+    },
+    {
+      "fname": "ramp.205.dump.json",
+      "temp": 1000,
+      "flipTime": 1.8e-11
+    },
+    {
+      "fname": "ramp.539.dump.json",
+      "temp": 1000,
+      "flipTime": 1.5939999999999999e-09
+    },
+    {
+      "fname": "ramp.953.dump.json",
+      "temp": 1000,
+      "flipTime": 1.759e-09
+    },
+    {
+      "fname": "ramp.732.dump.json",
+      "temp": 1000,
+      "flipTime": 5.0054e-08
+    },
+    {
+      "fname": "ramp.510.dump.json",
+      "temp": 1000,
+      "flipTime": 5.4297e-08
+    },
+    {
+      "fname": "ramp.653.dump.json",
+      "temp": 1000,
+      "flipTime": 1.849e-08
+    },
+    {
+      "fname": "ramp.557.dump.json",
+      "temp": 1000,
+      "flipTime": 6.65e-09
+    },
+    {
+      "fname": "ramp.9736.dump.json",
+      "temp": 570,
+      "flipTime": 1.2254e-08
+    },
+    {
+      "fname": "ramp.9695.dump.json",
+      "temp": 570,
+      "flipTime": 1.34e-08
+    },
+    {
+      "fname": "ramp.6602.dump.json",
+      "temp": 570,
+      "flipTime": 1.0171e-08
+    },
+    {
+      "fname": "ramp.7832.dump.json",
+      "temp": 570,
+      "flipTime": 2.0352e-08
+    },
+    {
+      "fname": "ramp.4974.dump.json",
+      "temp": 570,
+      "flipTime": 3.74e-10
+    },
+    {
+      "fname": "ramp.7825.dump.json",
+      "temp": 570,
+      "flipTime": 6.293e-09
+    },
+    {
+      "fname": "ramp.3634.dump.json",
+      "temp": 570,
+      "flipTime": 8.038e-09
+    },
+    {
+      "fname": "ramp.6026.dump.json",
+      "temp": 570,
+      "flipTime": 1.381e-08
+    },
+    {
+      "fname": "ramp.4779.dump.json",
+      "temp": 570,
+      "flipTime": 8.609999999999999e-09
+    },
+    {
+      "fname": "ramp.5349.dump.json",
+      "temp": 570,
+      "flipTime": 2.573e-09
+    },
+    {
+      "fname": "ramp.6034.dump.json",
+      "temp": 570,
+      "flipTime": 9.338e-09
+    },
+    {
+      "fname": "ramp.8253.dump.json",
+      "temp": 570,
+      "flipTime": 5.0791e-08
+    },
+    {
+      "fname": "ramp.7681.dump.json",
+      "temp": 570,
+      "flipTime": 2.4877e-08
+    },
+    {
+      "fname": "ramp.2914.dump.json",
+      "temp": 570,
+      "flipTime": 1.6715e-08
+    },
+    {
+      "fname": "ramp.9490.dump.json",
+      "temp": 570,
+      "flipTime": 2.5001e-08
+    },
+    {
+      "fname": "ramp.2269.dump.json",
+      "temp": 570,
+      "flipTime": 7.5132e-08
+    },
+    {
+      "fname": "ramp.1473.dump.json",
+      "temp": 570,
+      "flipTime": 1.6764999999999998e-08
+    },
+    {
+      "fname": "ramp.9772.dump.json",
+      "temp": 570,
+      "flipTime": 2.4786e-08
+    },
+    {
+      "fname": "ramp.4087.dump.json",
+      "temp": 570,
+      "flipTime": 1.0396e-08
+    },
+    {
+      "fname": "ramp.8465.dump.json",
+      "temp": 570,
+      "flipTime": 7.584e-09
+    },
+    {
+      "fname": "ramp.5577.dump.json",
+      "temp": 570,
+      "flipTime": 8.941e-09
+    },
+    {
+      "fname": "ramp.9413.dump.json",
+      "temp": 570,
+      "flipTime": 1.535e-09
+    },
+    {
+      "fname": "ramp.2270.dump.json",
+      "temp": 570,
+      "flipTime": 6.954e-09
+    },
+    {
+      "fname": "ramp.8162.dump.json",
+      "temp": 570,
+      "flipTime": 9.146999999999999e-09
+    },
+    {
+      "fname": "ramp.1722.dump.json",
+      "temp": 570,
+      "flipTime": 5.4707e-08
+    },
+    {
+      "fname": "ramp.2970.dump.json",
+      "temp": 570,
+      "flipTime": 2.919e-09
+    },
+    {
+      "fname": "ramp.7377.dump.json",
+      "temp": 570,
+      "flipTime": 3.3864e-08
+    },
+    {
+      "fname": "ramp.2456.dump.json",
+      "temp": 570,
+      "flipTime": 7.019e-09
+    },
+    {
+      "fname": "ramp.4741.dump.json",
+      "temp": 570,
+      "flipTime": 1.0255e-08
+    },
+    {
+      "fname": "ramp.5953.dump.json",
+      "temp": 570,
+      "flipTime": 8.549999999999999e-10
+    },
+    {
+      "fname": "ramp.5504.dump.json",
+      "temp": 570,
+      "flipTime": 1.5141e-08
+    },
+    {
+      "fname": "ramp.8267.dump.json",
+      "temp": 570,
+      "flipTime": 1.9182e-08
+    },
+    {
+      "fname": "ramp.7856.dump.json",
+      "temp": 570,
+      "flipTime": 2.2666e-08
+    },
+    {
+      "fname": "ramp.7396.dump.json",
+      "temp": 570,
+      "flipTime": 2.45e-10
+    },
+    {
+      "fname": "ramp.8220.dump.json",
+      "temp": 570,
+      "flipTime": 1.107e-09
+    },
+    {
+      "fname": "ramp.5510.dump.json",
+      "temp": 570,
+      "flipTime": 5.6909999999999995e-09
+    },
+    {
+      "fname": "ramp.7649.dump.json",
+      "temp": 570,
+      "flipTime": 4.056e-09
+    },
+    {
+      "fname": "ramp.9750.dump.json",
+      "temp": 570,
+      "flipTime": 1.8531e-08
+    },
+    {
+      "fname": "ramp.9112.dump.json",
+      "temp": 570,
+      "flipTime": 2.741e-09
+    },
+    {
+      "fname": "ramp.2389.dump.json",
+      "temp": 570,
+      "flipTime": 1.5221e-08
+    },
+    {
+      "fname": "ramp.8474.dump.json",
+      "temp": 570,
+      "flipTime": 2.4006e-08
+    },
+    {
+      "fname": "ramp.1652.dump.json",
+      "temp": 570,
+      "flipTime": 5.863e-09
+    },
+    {
+      "fname": "ramp.9352.dump.json",
+      "temp": 570,
+      "flipTime": 1.107e-09
+    },
+    {
+      "fname": "ramp.5389.dump.json",
+      "temp": 570,
+      "flipTime": 3.5669999999999998e-09
+    },
+    {
+      "fname": "ramp.5653.dump.json",
+      "temp": 570,
+      "flipTime": 5.7787e-08
+    },
+    {
+      "fname": "ramp.1539.dump.json",
+      "temp": 570,
+      "flipTime": 4.1271e-08
+    },
+    {
+      "fname": "ramp.7200.dump.json",
+      "temp": 570,
+      "flipTime": 8.73e-10
+    },
+    {
+      "fname": "ramp.2005.dump.json",
+      "temp": 570,
+      "flipTime": 1.9927e-08
+    },
+    {
+      "fname": "ramp.4011.dump.json",
+      "temp": 595,
+      "flipTime": 5.63e-10
+    },
+    {
+      "fname": "ramp.9359.dump.json",
+      "temp": 595,
+      "flipTime": 6.2579e-08
+    },
+    {
+      "fname": "ramp.7637.dump.json",
+      "temp": 595,
+      "flipTime": 5.22e-10
+    },
+    {
+      "fname": "ramp.9913.dump.json",
+      "temp": 595,
+      "flipTime": 3.9066e-08
+    },
+    {
+      "fname": "ramp.6162.dump.json",
+      "temp": 595,
+      "flipTime": 9.383e-09
+    },
+    {
+      "fname": "ramp.2383.dump.json",
+      "temp": 595,
+      "flipTime": 1.365e-09
+    },
+    {
+      "fname": "ramp.6246.dump.json",
+      "temp": 595,
+      "flipTime": 1.251e-08
+    },
+    {
+      "fname": "ramp.8470.dump.json",
+      "temp": 595,
+      "flipTime": 4.393e-09
+    },
+    {
+      "fname": "ramp.4648.dump.json",
+      "temp": 595,
+      "flipTime": 5.8529999999999995e-09
+    },
+    {
+      "fname": "ramp.8688.dump.json",
+      "temp": 595,
+      "flipTime": 8.744e-09
+    },
+    {
+      "fname": "ramp.7452.dump.json",
+      "temp": 595,
+      "flipTime": 5.747e-09
+    },
+    {
+      "fname": "ramp.8393.dump.json",
+      "temp": 595,
+      "flipTime": 1.848e-09
+    },
+    {
+      "fname": "ramp.5616.dump.json",
+      "temp": 595,
+      "flipTime": 2.5345e-08
+    },
+    {
+      "fname": "ramp.1541.dump.json",
+      "temp": 595,
+      "flipTime": 2.5001e-08
+    },
+    {
+      "fname": "ramp.9890.dump.json",
+      "temp": 595,
+      "flipTime": 1.3908999999999999e-08
+    },
+    {
+      "fname": "ramp.5614.dump.json",
+      "temp": 595,
+      "flipTime": 6.2519999999999995e-09
+    },
+    {
+      "fname": "ramp.6169.dump.json",
+      "temp": 595,
+      "flipTime": 2.1042e-08
+    },
+    {
+      "fname": "ramp.8399.dump.json",
+      "temp": 595,
+      "flipTime": 2.4204e-08
+    },
+    {
+      "fname": "ramp.7610.dump.json",
+      "temp": 595,
+      "flipTime": 3.1879999999999997e-09
+    },
+    {
+      "fname": "ramp.2424.dump.json",
+      "temp": 595,
+      "flipTime": 2.786e-09
+    },
+    {
+      "fname": "ramp.5944.dump.json",
+      "temp": 595,
+      "flipTime": 8.116999999999999e-09
+    },
+    {
+      "fname": "ramp.1515.dump.json",
+      "temp": 595,
+      "flipTime": 3.435e-09
+    },
+    {
+      "fname": "ramp.9630.dump.json",
+      "temp": 595,
+      "flipTime": 1.2502e-08
+    },
+    {
+      "fname": "ramp.8162.dump.json",
+      "temp": 595,
+      "flipTime": 4e-11
+    },
+    {
+      "fname": "ramp.8765.dump.json",
+      "temp": 595,
+      "flipTime": 3.6559999999999998e-09
+    },
+    {
+      "fname": "ramp.8681.dump.json",
+      "temp": 595,
+      "flipTime": 5.0217e-08
+    },
+    {
+      "fname": "ramp.2222.dump.json",
+      "temp": 595,
+      "flipTime": 5.6256e-08
+    },
+    {
+      "fname": "ramp.5801.dump.json",
+      "temp": 595,
+      "flipTime": 1.1565e-08
+    },
+    {
+      "fname": "ramp.4899.dump.json",
+      "temp": 595,
+      "flipTime": 6.981e-09
+    },
+    {
+      "fname": "ramp.5248.dump.json",
+      "temp": 595,
+      "flipTime": 2.3709999999999998e-09
+    },
+    {
+      "fname": "ramp.1563.dump.json",
+      "temp": 595,
+      "flipTime": 5.874e-09
+    },
+    {
+      "fname": "ramp.7733.dump.json",
+      "temp": 595,
+      "flipTime": 1.9533999999999998e-08
+    },
+    {
+      "fname": "ramp.5504.dump.json",
+      "temp": 595,
+      "flipTime": 9.642e-09
+    },
+    {
+      "fname": "ramp.3033.dump.json",
+      "temp": 595,
+      "flipTime": 5.27e-09
+    },
+    {
+      "fname": "ramp.8267.dump.json",
+      "temp": 595,
+      "flipTime": 1.1527999999999999e-08
+    },
+    {
+      "fname": "ramp.7908.dump.json",
+      "temp": 595,
+      "flipTime": 1.9991999999999998e-08
+    },
+    {
+      "fname": "ramp.6369.dump.json",
+      "temp": 595,
+      "flipTime": 1.0404e-08
+    },
+    {
+      "fname": "ramp.4834.dump.json",
+      "temp": 595,
+      "flipTime": 1.9908e-08
+    },
+    {
+      "fname": "ramp.9137.dump.json",
+      "temp": 595,
+      "flipTime": 5.31e-10
+    },
+    {
+      "fname": "ramp.9535.dump.json",
+      "temp": 595,
+      "flipTime": 3.7515999999999997e-08
+    },
+    {
+      "fname": "ramp.1383.dump.json",
+      "temp": 595,
+      "flipTime": 3.3579999999999998e-09
+    },
+    {
+      "fname": "ramp.6041.dump.json",
+      "temp": 595,
+      "flipTime": 5.97e-10
+    },
+    {
+      "fname": "ramp.7471.dump.json",
+      "temp": 595,
+      "flipTime": 1.2513e-08
+    },
+    {
+      "fname": "ramp.5653.dump.json",
+      "temp": 595,
+      "flipTime": 2.0505e-08
+    },
+    {
+      "fname": "ramp.7736.dump.json",
+      "temp": 595,
+      "flipTime": 5.347e-09
+    },
+    {
+      "fname": "ramp.2096.dump.json",
+      "temp": 595,
+      "flipTime": 9.97e-10
+    },
+    {
+      "fname": "ramp.9452.dump.json",
+      "temp": 595,
+      "flipTime": 3.3539999999999998e-09
+    },
+    {
+      "fname": "ramp.6407.dump.json",
+      "temp": 595,
+      "flipTime": 2.5009e-08
+    },
+    {
+      "fname": "ramp.5995.dump.json",
+      "temp": 670,
+      "flipTime": 9.56e-10
+    },
+    {
+      "fname": "ramp.8443.dump.json",
+      "temp": 670,
+      "flipTime": 2.502e-08
+    },
+    {
+      "fname": "ramp.3955.dump.json",
+      "temp": 670,
+      "flipTime": 5.3178999999999996e-08
+    },
+    {
+      "fname": "ramp.4667.dump.json",
+      "temp": 670,
+      "flipTime": 1.01e-10
+    },
+    {
+      "fname": "ramp.6217.dump.json",
+      "temp": 670,
+      "flipTime": 5.0029e-08
+    },
+    {
+      "fname": "ramp.2957.dump.json",
+      "temp": 670,
+      "flipTime": 2.5007999999999998e-08
+    },
+    {
+      "fname": "ramp.4082.dump.json",
+      "temp": 670,
+      "flipTime": 1.351e-09
+    },
+    {
+      "fname": "ramp.9805.dump.json",
+      "temp": 670,
+      "flipTime": 2.4654e-08
+    },
+    {
+      "fname": "ramp.2126.dump.json",
+      "temp": 670,
+      "flipTime": 3.753e-09
+    },
+    {
+      "fname": "ramp.7450.dump.json",
+      "temp": 670,
+      "flipTime": 1.875e-08
+    },
+    {
+      "fname": "ramp.3873.dump.json",
+      "temp": 670,
+      "flipTime": 7.5002e-08
+    },
+    {
+      "fname": "ramp.2995.dump.json",
+      "temp": 670,
+      "flipTime": 4.0637999999999996e-08
+    },
+    {
+      "fname": "ramp.1898.dump.json",
+      "temp": 670,
+      "flipTime": 4.931e-09
+    },
+    {
+      "fname": "ramp.4581.dump.json",
+      "temp": 670,
+      "flipTime": 1.665e-09
+    },
+    {
+      "fname": "ramp.3988.dump.json",
+      "temp": 670,
+      "flipTime": 2.289e-09
+    },
+    {
+      "fname": "ramp.4597.dump.json",
+      "temp": 670,
+      "flipTime": 5.193e-09
+    },
+    {
+      "fname": "ramp.4707.dump.json",
+      "temp": 670,
+      "flipTime": 4.568e-09
+    },
+    {
+      "fname": "ramp.8795.dump.json",
+      "temp": 670,
+      "flipTime": 6.9e-10
+    },
+    {
+      "fname": "ramp.6562.dump.json",
+      "temp": 670,
+      "flipTime": 6.326e-09
+    },
+    {
+      "fname": "ramp.9675.dump.json",
+      "temp": 670,
+      "flipTime": 1.1429999999999999e-09
+    },
+    {
+      "fname": "ramp.9924.dump.json",
+      "temp": 670,
+      "flipTime": 1.899e-09
+    },
+    {
+      "fname": "ramp.5934.dump.json",
+      "temp": 670,
+      "flipTime": 2.5028e-08
+    },
+    {
+      "fname": "ramp.1120.dump.json",
+      "temp": 670,
+      "flipTime": 4.338e-09
+    },
+    {
+      "fname": "ramp.9351.dump.json",
+      "temp": 670,
+      "flipTime": 3.6e-10
+    },
+    {
+      "fname": "ramp.3875.dump.json",
+      "temp": 670,
+      "flipTime": 5.635e-09
+    },
+    {
+      "fname": "ramp.1542.dump.json",
+      "temp": 670,
+      "flipTime": 2.46e-10
+    },
+    {
+      "fname": "ramp.8055.dump.json",
+      "temp": 670,
+      "flipTime": 6.24e-10
+    },
+    {
+      "fname": "ramp.8864.dump.json",
+      "temp": 670,
+      "flipTime": 3.912e-09
+    },
+    {
+      "fname": "ramp.4110.dump.json",
+      "temp": 670,
+      "flipTime": 4.1539999999999995e-09
+    },
+    {
+      "fname": "ramp.6385.dump.json",
+      "temp": 670,
+      "flipTime": 4.3802e-08
+    },
+    {
+      "fname": "ramp.1744.dump.json",
+      "temp": 670,
+      "flipTime": 3.7503999999999996e-08
+    },
+    {
+      "fname": "ramp.1994.dump.json",
+      "temp": 670,
+      "flipTime": 2.5009e-08
+    },
+    {
+      "fname": "ramp.7781.dump.json",
+      "temp": 670,
+      "flipTime": 3.1e-10
+    },
+    {
+      "fname": "ramp.3699.dump.json",
+      "temp": 670,
+      "flipTime": 2.711e-09
+    },
+    {
+      "fname": "ramp.9171.dump.json",
+      "temp": 670,
+      "flipTime": 5.538e-09
+    },
+    {
+      "fname": "ramp.8448.dump.json",
+      "temp": 670,
+      "flipTime": 5.469e-09
+    },
+    {
+      "fname": "ramp.8380.dump.json",
+      "temp": 670,
+      "flipTime": 2.5786999999999998e-08
+    },
+    {
+      "fname": "ramp.5525.dump.json",
+      "temp": 670,
+      "flipTime": 6.28e-09
+    },
+    {
+      "fname": "ramp.2159.dump.json",
+      "temp": 670,
+      "flipTime": 9.35e-10
+    },
+    {
+      "fname": "ramp.3116.dump.json",
+      "temp": 670,
+      "flipTime": 1.2501e-08
+    },
+    {
+      "fname": "ramp.9810.dump.json",
+      "temp": 670,
+      "flipTime": 6.259e-09
+    },
+    {
+      "fname": "ramp.7745.dump.json",
+      "temp": 670,
+      "flipTime": 8.7e-10
+    },
+    {
+      "fname": "ramp.9826.dump.json",
+      "temp": 670,
+      "flipTime": 6.2647e-08
+    },
+    {
+      "fname": "ramp.8853.dump.json",
+      "temp": 670,
+      "flipTime": 1.151e-09
+    },
+    {
+      "fname": "ramp.6810.dump.json",
+      "temp": 670,
+      "flipTime": 4.8119999999999995e-09
+    },
+    {
+      "fname": "ramp.3956.dump.json",
+      "temp": 670,
+      "flipTime": 2.5785e-08
+    },
+    {
+      "fname": "ramp.4014.dump.json",
+      "temp": 670,
+      "flipTime": 1.6249999999999999e-09
+    },
+    {
+      "fname": "ramp.9261.dump.json",
+      "temp": 670,
+      "flipTime": 0
+    },
+    {
+      "fname": "ramp.4009.dump.json",
+      "temp": 900,
+      "flipTime": 5.0021e-08
+    },
+    {
+      "fname": "ramp.5220.dump.json",
+      "temp": 900,
+      "flipTime": 1.8e-11
+    },
+    {
+      "fname": "ramp.9913.dump.json",
+      "temp": 900,
+      "flipTime": 2.4994e-08
+    },
+    {
+      "fname": "ramp.1122.dump.json",
+      "temp": 900,
+      "flipTime": 5.0002e-08
+    },
+    {
+      "fname": "ramp.5777.dump.json",
+      "temp": 900,
+      "flipTime": 3.168e-09
+    },
+    {
+      "fname": "ramp.7662.dump.json",
+      "temp": 900,
+      "flipTime": 6.9e-11
+    },
+    {
+      "fname": "ramp.2550.dump.json",
+      "temp": 900,
+      "flipTime": 2.5233e-08
+    },
+    {
+      "fname": "ramp.7450.dump.json",
+      "temp": 900,
+      "flipTime": 2.4711e-08
+    },
+    {
+      "fname": "ramp.5179.dump.json",
+      "temp": 900,
+      "flipTime": 9.3e-11
+    },
+    {
+      "fname": "ramp.7536.dump.json",
+      "temp": 900,
+      "flipTime": 1.96e-10
+    },
+    {
+      "fname": "ramp.8834.dump.json",
+      "temp": 900,
+      "flipTime": 1.173e-09
+    },
+    {
+      "fname": "ramp.5449.dump.json",
+      "temp": 900,
+      "flipTime": 2.1399999999999998e-10
+    },
+    {
+      "fname": "ramp.3589.dump.json",
+      "temp": 900,
+      "flipTime": 6.333599999999999e-08
+    },
+    {
+      "fname": "ramp.8274.dump.json",
+      "temp": 900,
+      "flipTime": 3.93e-10
+    },
+    {
+      "fname": "ramp.8255.dump.json",
+      "temp": 900,
+      "flipTime": 0
+    },
+    {
+      "fname": "ramp.3751.dump.json",
+      "temp": 900,
+      "flipTime": 2.36e-10
+    },
+    {
+      "fname": "ramp.3305.dump.json",
+      "temp": 900,
+      "flipTime": 5e-08
+    },
+    {
+      "fname": "ramp.4526.dump.json",
+      "temp": 900,
+      "flipTime": 2.71e-10
+    },
+    {
+      "fname": "ramp.7702.dump.json",
+      "temp": 900,
+      "flipTime": 6.386e-09
+    },
+    {
+      "fname": "ramp.7855.dump.json",
+      "temp": 900,
+      "flipTime": 3.1259999999999998e-09
+    },
+    {
+      "fname": "ramp.1200.dump.json",
+      "temp": 900,
+      "flipTime": 5.0783e-08
+    },
+    {
+      "fname": "ramp.7349.dump.json",
+      "temp": 900,
+      "flipTime": 1.2503e-08
+    },
+    {
+      "fname": "ramp.6439.dump.json",
+      "temp": 900,
+      "flipTime": 2.24e-10
+    },
+    {
+      "fname": "ramp.5150.dump.json",
+      "temp": 900,
+      "flipTime": 2.1999999999999998e-11
+    },
+    {
+      "fname": "ramp.5533.dump.json",
+      "temp": 900,
+      "flipTime": 6.25e-09
+    },
+    {
+      "fname": "ramp.2456.dump.json",
+      "temp": 900,
+      "flipTime": 1.569e-09
+    },
+    {
+      "fname": "ramp.1662.dump.json",
+      "temp": 900,
+      "flipTime": 1.43e-10
+    },
+    {
+      "fname": "ramp.9974.dump.json",
+      "temp": 900,
+      "flipTime": 6.375e-09
+    },
+    {
+      "fname": "ramp.6244.dump.json",
+      "temp": 900,
+      "flipTime": 6.97e-10
+    },
+    {
+      "fname": "ramp.2453.dump.json",
+      "temp": 900,
+      "flipTime": 2.6564e-08
+    },
+    {
+      "fname": "ramp.8357.dump.json",
+      "temp": 900,
+      "flipTime": 5.9382999999999996e-08
+    },
+    {
+      "fname": "ramp.6613.dump.json",
+      "temp": 900,
+      "flipTime": 1.34e-10
+    },
+    {
+      "fname": "ramp.3453.dump.json",
+      "temp": 900,
+      "flipTime": 1.5629999999999999e-09
+    },
+    {
+      "fname": "ramp.5352.dump.json",
+      "temp": 900,
+      "flipTime": 6.48e-10
+    },
+    {
+      "fname": "ramp.7227.dump.json",
+      "temp": 900,
+      "flipTime": 6.9e-11
+    },
+    {
+      "fname": "ramp.9662.dump.json",
+      "temp": 900,
+      "flipTime": 1.3703e-08
+    },
+    {
+      "fname": "ramp.2129.dump.json",
+      "temp": 900,
+      "flipTime": 9.424e-09
+    },
+    {
+      "fname": "ramp.7356.dump.json",
+      "temp": 900,
+      "flipTime": 2.5211e-08
+    },
+    {
+      "fname": "ramp.2530.dump.json",
+      "temp": 900,
+      "flipTime": 2.7e-11
+    },
+    {
+      "fname": "ramp.6346.dump.json",
+      "temp": 900,
+      "flipTime": 7.814999999999999e-09
+    },
+    {
+      "fname": "ramp.2104.dump.json",
+      "temp": 900,
+      "flipTime": 1.576e-09
+    },
+    {
+      "fname": "ramp.3185.dump.json",
+      "temp": 900,
+      "flipTime": 1.2705e-08
+    },
+    {
+      "fname": "ramp.8491.dump.json",
+      "temp": 900,
+      "flipTime": 9.4e-11
+    },
+    {
+      "fname": "ramp.8982.dump.json",
+      "temp": 900,
+      "flipTime": 8e-10
+    },
+    {
+      "fname": "ramp.5110.dump.json",
+      "temp": 900,
+      "flipTime": 9.8e-10
+    },
+    {
+      "fname": "ramp.5671.dump.json",
+      "temp": 900,
+      "flipTime": 2.01e-10
+    },
+    {
+      "fname": "ramp.2452.dump.json",
+      "temp": 900,
+      "flipTime": 3.7139999999999998e-09
+    },
+    {
+      "fname": "ramp.5562.dump.json",
+      "temp": 900,
+      "flipTime": 9.844e-09
+    },
+    {
+      "fname": "ramp.2383.dump.json",
+      "temp": 620,
+      "flipTime": 4.293e-09
+    },
+    {
+      "fname": "ramp.5325.dump.json",
+      "temp": 620,
+      "flipTime": 1.2114e-08
+    },
+    {
+      "fname": "ramp.6284.dump.json",
+      "temp": 620,
+      "flipTime": 9.48e-10
+    },
+    {
+      "fname": "ramp.5891.dump.json",
+      "temp": 620,
+      "flipTime": 3.134e-09
+    },
+    {
+      "fname": "ramp.7525.dump.json",
+      "temp": 620,
+      "flipTime": 3.14e-09
+    },
+    {
+      "fname": "ramp.9096.dump.json",
+      "temp": 620,
+      "flipTime": 2.739e-08
+    },
+    {
+      "fname": "ramp.3899.dump.json",
+      "temp": 620,
+      "flipTime": 1.853e-09
+    },
+    {
+      "fname": "ramp.2364.dump.json",
+      "temp": 620,
+      "flipTime": 2.186e-09
+    },
+    {
+      "fname": "ramp.2704.dump.json",
+      "temp": 620,
+      "flipTime": 1.8764e-08
+    },
+    {
+      "fname": "ramp.4641.dump.json",
+      "temp": 620,
+      "flipTime": 3.918e-09
+    },
+    {
+      "fname": "ramp.6292.dump.json",
+      "temp": 620,
+      "flipTime": 2.5004999999999998e-08
+    },
+    {
+      "fname": "ramp.7578.dump.json",
+      "temp": 620,
+      "flipTime": 2.531e-09
+    },
+    {
+      "fname": "ramp.7322.dump.json",
+      "temp": 620,
+      "flipTime": 7.044e-09
+    },
+    {
+      "fname": "ramp.2514.dump.json",
+      "temp": 620,
+      "flipTime": 5.3545e-08
+    },
+    {
+      "fname": "ramp.5694.dump.json",
+      "temp": 620,
+      "flipTime": 1.4063e-08
+    },
+    {
+      "fname": "ramp.2215.dump.json",
+      "temp": 620,
+      "flipTime": 3.8e-11
+    },
+    {
+      "fname": "ramp.6004.dump.json",
+      "temp": 620,
+      "flipTime": 1.2527e-08
+    },
+    {
+      "fname": "ramp.8338.dump.json",
+      "temp": 620,
+      "flipTime": 6.267e-09
+    },
+    {
+      "fname": "ramp.6195.dump.json",
+      "temp": 620,
+      "flipTime": 1.5141e-08
+    },
+    {
+      "fname": "ramp.3269.dump.json",
+      "temp": 620,
+      "flipTime": 5.05e-10
+    },
+    {
+      "fname": "ramp.2580.dump.json",
+      "temp": 620,
+      "flipTime": 7.959999999999999e-10
+    },
+    {
+      "fname": "ramp.6899.dump.json",
+      "temp": 620,
+      "flipTime": 1.213e-09
+    },
+    {
+      "fname": "ramp.8882.dump.json",
+      "temp": 620,
+      "flipTime": 5.6252e-08
+    },
+    {
+      "fname": "ramp.9366.dump.json",
+      "temp": 620,
+      "flipTime": 8.965e-09
+    },
+    {
+      "fname": "ramp.6511.dump.json",
+      "temp": 620,
+      "flipTime": 2.5001e-08
+    },
+    {
+      "fname": "ramp.2850.dump.json",
+      "temp": 620,
+      "flipTime": 4.671e-09
+    },
+    {
+      "fname": "ramp.2058.dump.json",
+      "temp": 620,
+      "flipTime": 2.5007999999999998e-08
+    },
+    {
+      "fname": "ramp.1060.dump.json",
+      "temp": 620,
+      "flipTime": 2e-12
+    },
+    {
+      "fname": "ramp.9152.dump.json",
+      "temp": 620,
+      "flipTime": 1.089e-09
+    },
+    {
+      "fname": "ramp.7306.dump.json",
+      "temp": 620,
+      "flipTime": 2.178e-09
+    },
+    {
+      "fname": "ramp.1759.dump.json",
+      "temp": 620,
+      "flipTime": 6.2767e-08
+    },
+    {
+      "fname": "ramp.4903.dump.json",
+      "temp": 620,
+      "flipTime": 3.516e-09
+    },
+    {
+      "fname": "ramp.6018.dump.json",
+      "temp": 620,
+      "flipTime": 7.4e-10
+    },
+    {
+      "fname": "ramp.1887.dump.json",
+      "temp": 620,
+      "flipTime": 7.5016e-08
+    },
+    {
+      "fname": "ramp.2052.dump.json",
+      "temp": 620,
+      "flipTime": 1.1303e-08
+    },
+    {
+      "fname": "ramp.9335.dump.json",
+      "temp": 620,
+      "flipTime": 1.2423e-08
+    },
+    {
+      "fname": "ramp.4491.dump.json",
+      "temp": 620,
+      "flipTime": 1.781e-09
+    },
+    {
+      "fname": "ramp.2331.dump.json",
+      "temp": 620,
+      "flipTime": 3.801e-09
+    },
+    {
+      "fname": "ramp.3155.dump.json",
+      "temp": 620,
+      "flipTime": 3.957e-09
+    },
+    {
+      "fname": "ramp.2917.dump.json",
+      "temp": 620,
+      "flipTime": 5.68e-10
+    },
+    {
+      "fname": "ramp.4451.dump.json",
+      "temp": 620,
+      "flipTime": 4.787e-09
+    },
+    {
+      "fname": "ramp.9472.dump.json",
+      "temp": 620,
+      "flipTime": 3.138e-09
+    },
+    {
+      "fname": "ramp.6019.dump.json",
+      "temp": 620,
+      "flipTime": 5.118e-09
+    },
+    {
+      "fname": "ramp.7620.dump.json",
+      "temp": 620,
+      "flipTime": 3.932e-09
+    },
+    {
+      "fname": "ramp.2161.dump.json",
+      "temp": 620,
+      "flipTime": 3.619e-09
+    },
+    {
+      "fname": "ramp.4556.dump.json",
+      "temp": 620,
+      "flipTime": 4.1199999999999997e-10
+    },
+    {
+      "fname": "ramp.4659.dump.json",
+      "temp": 620,
+      "flipTime": 5.024e-09
+    },
+    {
+      "fname": "ramp.8944.dump.json",
+      "temp": 620,
+      "flipTime": 4.099e-09
+    },
+    {
+      "fname": "ramp.4898.dump.json",
+      "temp": 645,
+      "flipTime": 5.0056e-08
+    },
+    {
+      "fname": "ramp.6202.dump.json",
+      "temp": 645,
+      "flipTime": 6.27e-09
+    },
+    {
+      "fname": "ramp.6299.dump.json",
+      "temp": 645,
+      "flipTime": 1.878e-09
+    },
+    {
+      "fname": "ramp.1456.dump.json",
+      "temp": 645,
+      "flipTime": 4.9341e-08
+    },
+    {
+      "fname": "ramp.5765.dump.json",
+      "temp": 645,
+      "flipTime": 1.2503999999999999e-08
+    },
+    {
+      "fname": "ramp.1311.dump.json",
+      "temp": 645,
+      "flipTime": 1.2605e-08
+    },
+    {
+      "fname": "ramp.3911.dump.json",
+      "temp": 645,
+      "flipTime": 2.05e-10
+    },
+    {
+      "fname": "ramp.8796.dump.json",
+      "temp": 645,
+      "flipTime": 2.877e-09
+    },
+    {
+      "fname": "ramp.8261.dump.json",
+      "temp": 645,
+      "flipTime": 4.4299999999999997e-10
+    },
+    {
+      "fname": "ramp.9080.dump.json",
+      "temp": 645,
+      "flipTime": 7.035e-09
+    },
+    {
+      "fname": "ramp.3965.dump.json",
+      "temp": 645,
+      "flipTime": 1.985e-09
+    },
+    {
+      "fname": "ramp.1365.dump.json",
+      "temp": 645,
+      "flipTime": 2.5e-08
+    },
+    {
+      "fname": "ramp.3602.dump.json",
+      "temp": 645,
+      "flipTime": 6.2789999999999995e-09
+    },
+    {
+      "fname": "ramp.1961.dump.json",
+      "temp": 645,
+      "flipTime": 1.5919999999999999e-09
+    },
+    {
+      "fname": "ramp.6507.dump.json",
+      "temp": 645,
+      "flipTime": 7.88e-10
+    },
+    {
+      "fname": "ramp.4582.dump.json",
+      "temp": 645,
+      "flipTime": 1.7e-10
+    },
+    {
+      "fname": "ramp.8127.dump.json",
+      "temp": 645,
+      "flipTime": 3.69e-09
+    },
+    {
+      "fname": "ramp.9350.dump.json",
+      "temp": 645,
+      "flipTime": 1.4065e-08
+    },
+    {
+      "fname": "ramp.4177.dump.json",
+      "temp": 645,
+      "flipTime": 1.4736e-08
+    },
+    {
+      "fname": "ramp.7740.dump.json",
+      "temp": 645,
+      "flipTime": 5.0119e-08
+    },
+    {
+      "fname": "ramp.1585.dump.json",
+      "temp": 645,
+      "flipTime": 6.814e-09
+    },
+    {
+      "fname": "ramp.4579.dump.json",
+      "temp": 645,
+      "flipTime": 2.363e-09
+    },
+    {
+      "fname": "ramp.4984.dump.json",
+      "temp": 645,
+      "flipTime": 7.841e-09
+    },
+    {
+      "fname": "ramp.3849.dump.json",
+      "temp": 645,
+      "flipTime": 5.905e-09
+    },
+    {
+      "fname": "ramp.9621.dump.json",
+      "temp": 645,
+      "flipTime": 4.3589999999999995e-09
+    },
+    {
+      "fname": "ramp.3261.dump.json",
+      "temp": 645,
+      "flipTime": 1.0901999999999999e-08
+    },
+    {
+      "fname": "ramp.2501.dump.json",
+      "temp": 645,
+      "flipTime": 2.8479e-08
+    },
+    {
+      "fname": "ramp.3176.dump.json",
+      "temp": 645,
+      "flipTime": 5.6749999999999995e-09
+    },
+    {
+      "fname": "ramp.8303.dump.json",
+      "temp": 645,
+      "flipTime": 3.804e-09
+    },
+    {
+      "fname": "ramp.5091.dump.json",
+      "temp": 645,
+      "flipTime": 1.613e-09
+    },
+    {
+      "fname": "ramp.7511.dump.json",
+      "temp": 645,
+      "flipTime": 5.468e-09
+    },
+    {
+      "fname": "ramp.7270.dump.json",
+      "temp": 645,
+      "flipTime": 1.8946e-08
+    },
+    {
+      "fname": "ramp.2433.dump.json",
+      "temp": 645,
+      "flipTime": 6.404e-09
+    },
+    {
+      "fname": "ramp.2278.dump.json",
+      "temp": 645,
+      "flipTime": 2.552e-09
+    },
+    {
+      "fname": "ramp.7699.dump.json",
+      "temp": 645,
+      "flipTime": 1.304e-09
+    },
+    {
+      "fname": "ramp.8723.dump.json",
+      "temp": 645,
+      "flipTime": 4.3859999999999995e-09
+    },
+    {
+      "fname": "ramp.5747.dump.json",
+      "temp": 645,
+      "flipTime": 2.589e-09
+    },
+    {
+      "fname": "ramp.8552.dump.json",
+      "temp": 645,
+      "flipTime": 2.51e-08
+    },
+    {
+      "fname": "ramp.5370.dump.json",
+      "temp": 645,
+      "flipTime": 2.148e-09
+    },
+    {
+      "fname": "ramp.8024.dump.json",
+      "temp": 645,
+      "flipTime": 1.425e-09
+    },
+    {
+      "fname": "ramp.9859.dump.json",
+      "temp": 645,
+      "flipTime": 3.95e-09
+    },
+    {
+      "fname": "ramp.5261.dump.json",
+      "temp": 645,
+      "flipTime": 2.0513e-08
+    },
+    {
+      "fname": "ramp.1746.dump.json",
+      "temp": 645,
+      "flipTime": 7.814999999999999e-09
+    },
+    {
+      "fname": "ramp.4360.dump.json",
+      "temp": 645,
+      "flipTime": 1.2503e-08
+    },
+    {
+      "fname": "ramp.3623.dump.json",
+      "temp": 645,
+      "flipTime": 5.3569e-08
+    },
+    {
+      "fname": "ramp.9801.dump.json",
+      "temp": 645,
+      "flipTime": 1.268e-09
+    }
+  ],
+  "5C": [
+    {
+      "fname": "ramp.1739.dump.json",
+      "temp": 1520,
+      "flipTime": 5.0458e-08
+    },
+    {
+      "fname": "ramp.4898.dump.json",
+      "temp": 1520,
+      "flipTime": 3.0737e-08
+    },
+    {
+      "fname": "ramp.5871.dump.json",
+      "temp": 1520,
+      "flipTime": 5.5194e-08
+    },
+    {
+      "fname": "ramp.1072.dump.json",
+      "temp": 1520,
+      "flipTime": 5.1264e-08
+    },
+    {
+      "fname": "ramp.9611.dump.json",
+      "temp": 1520,
+      "flipTime": 7.5299e-08
+    },
+    {
+      "fname": "ramp.2688.dump.json",
+      "temp": 1520,
+      "flipTime": 6.4031e-08
+    },
+    {
+      "fname": "ramp.1649.dump.json",
+      "temp": 1520,
+      "flipTime": 2.5194999999999998e-08
+    },
+    {
+      "fname": "ramp.9984.dump.json",
+      "temp": 1520,
+      "flipTime": 3.7229e-08
+    },
+    {
+      "fname": "ramp.8349.dump.json",
+      "temp": 1520,
+      "flipTime": 4.9408e-08
+    },
+    {
+      "fname": "ramp.6558.dump.json",
+      "temp": 1520,
+      "flipTime": 7.5308e-08
+    },
+    {
+      "fname": "ramp.1184.dump.json",
+      "temp": 1520,
+      "flipTime": 5.6463e-08
+    },
+    {
+      "fname": "ramp.9673.dump.json",
+      "temp": 1520,
+      "flipTime": 1.4073999999999999e-08
+    },
+    {
+      "fname": "ramp.3560.dump.json",
+      "temp": 1520,
+      "flipTime": 5.2393e-08
+    },
+    {
+      "fname": "ramp.6513.dump.json",
+      "temp": 1520,
+      "flipTime": 7.667e-08
+    },
+    {
+      "fname": "ramp.9140.dump.json",
+      "temp": 1520,
+      "flipTime": 2.2214e-08
+    },
+    {
+      "fname": "ramp.5856.dump.json",
+      "temp": 1520,
+      "flipTime": 3.6134e-08
+    },
+    {
+      "fname": "ramp.6829.dump.json",
+      "temp": 1520,
+      "flipTime": 6.4675e-08
+    },
+    {
+      "fname": "ramp.9578.dump.json",
+      "temp": 1520,
+      "flipTime": 2.8847999999999998e-08
+    },
+    {
+      "fname": "ramp.3313.dump.json",
+      "temp": 1520,
+      "flipTime": 1.2533e-08
+    },
+    {
+      "fname": "ramp.6543.dump.json",
+      "temp": 1520,
+      "flipTime": 5.5098e-08
+    },
+    {
+      "fname": "ramp.9122.dump.json",
+      "temp": 1520,
+      "flipTime": 6.9008e-08
+    },
+    {
+      "fname": "ramp.6506.dump.json",
+      "temp": 1520,
+      "flipTime": 6.3367e-08
+    },
+    {
+      "fname": "ramp.3257.dump.json",
+      "temp": 1520,
+      "flipTime": 5.0009e-08
+    },
+    {
+      "fname": "ramp.6358.dump.json",
+      "temp": 1520,
+      "flipTime": 5.1184e-08
+    },
+    {
+      "fname": "ramp.3934.dump.json",
+      "temp": 1520,
+      "flipTime": 1.4477999999999999e-08
+    },
+    {
+      "fname": "ramp.2956.dump.json",
+      "temp": 1520,
+      "flipTime": 3.2178e-08
+    },
+    {
+      "fname": "ramp.1073.dump.json",
+      "temp": 1520,
+      "flipTime": 7.8221e-08
+    },
+    {
+      "fname": "ramp.3426.dump.json",
+      "temp": 1520,
+      "flipTime": 2.8506e-08
+    },
+    {
+      "fname": "ramp.2062.dump.json",
+      "temp": 1520,
+      "flipTime": 6.4337e-08
+    },
+    {
+      "fname": "ramp.2176.dump.json",
+      "temp": 1520,
+      "flipTime": 7.715e-08
+    },
+    {
+      "fname": "ramp.8083.dump.json",
+      "temp": 1520,
+      "flipTime": 1.2487999999999999e-08
+    },
+    {
+      "fname": "ramp.8734.dump.json",
+      "temp": 1520,
+      "flipTime": 6.964e-08
+    },
+    {
+      "fname": "ramp.6770.dump.json",
+      "temp": 1520,
+      "flipTime": 1.8754e-08
+    },
+    {
+      "fname": "ramp.8808.dump.json",
+      "temp": 1520,
+      "flipTime": 4.571e-09
+    },
+    {
+      "fname": "ramp.4107.dump.json",
+      "temp": 1520,
+      "flipTime": 6.8434e-08
+    },
+    {
+      "fname": "ramp.6597.dump.json",
+      "temp": 1520,
+      "flipTime": 2.5077999999999998e-08
+    },
+    {
+      "fname": "ramp.1130.dump.json",
+      "temp": 1520,
+      "flipTime": 5.233e-09
+    },
+    {
+      "fname": "ramp.4542.dump.json",
+      "temp": 1520,
+      "flipTime": 4.8809e-08
+    },
+    {
+      "fname": "ramp.5189.dump.json",
+      "temp": 1520,
+      "flipTime": 1.1588e-08
+    },
+    {
+      "fname": "ramp.2535.dump.json",
+      "temp": 1520,
+      "flipTime": 2.4062e-08
+    },
+    {
+      "fname": "ramp.4154.dump.json",
+      "temp": 1520,
+      "flipTime": 2.1059999999999998e-08
+    },
+    {
+      "fname": "ramp.5389.dump.json",
+      "temp": 1520,
+      "flipTime": 3.8194e-08
+    },
+    {
+      "fname": "ramp.2658.dump.json",
+      "temp": 1520,
+      "flipTime": 9.193e-09
+    },
+    {
+      "fname": "ramp.4188.dump.json",
+      "temp": 1520,
+      "flipTime": 3.8326999999999996e-08
+    },
+    {
+      "fname": "ramp.9685.dump.json",
+      "temp": 1520,
+      "flipTime": 7.8157e-08
+    },
+    {
+      "fname": "ramp.8810.dump.json",
+      "temp": 1520,
+      "flipTime": 5.0131e-08
+    },
+    {
+      "fname": "ramp.8268.dump.json",
+      "temp": 1520,
+      "flipTime": 2.76e-09
+    },
+    {
+      "fname": "ramp.2164.dump.json",
+      "temp": 1520,
+      "flipTime": 3.4550999999999996e-08
+    },
+    {
+      "fname": "ramp.886.dump.json",
+      "temp": 1300,
+      "flipTime": 3.4328e-08
+    },
+    {
+      "fname": "ramp.348.dump.json",
+      "temp": 1300,
+      "flipTime": 4.4675999999999996e-08
+    },
+    {
+      "fname": "ramp.507.dump.json",
+      "temp": 1300,
+      "flipTime": 5.6166999999999996e-08
+    },
+    {
+      "fname": "ramp.651.dump.json",
+      "temp": 1300,
+      "flipTime": 1.0782e-08
+    },
+    {
+      "fname": "ramp.326.dump.json",
+      "temp": 1300,
+      "flipTime": 7.492e-08
+    },
+    {
+      "fname": "ramp.903.dump.json",
+      "temp": 1300,
+      "flipTime": 5.0394e-08
+    },
+    {
+      "fname": "ramp.201.dump.json",
+      "temp": 1300,
+      "flipTime": 3.0457e-08
+    },
+    {
+      "fname": "ramp.179.dump.json",
+      "temp": 1300,
+      "flipTime": 6.9307e-08
+    },
+    {
+      "fname": "ramp.771.dump.json",
+      "temp": 1300,
+      "flipTime": 1.067e-09
+    },
+    {
+      "fname": "ramp.856.dump.json",
+      "temp": 1900,
+      "flipTime": 2.569e-09
+    },
+    {
+      "fname": "ramp.161.dump.json",
+      "temp": 1900,
+      "flipTime": 2.616e-09
+    },
+    {
+      "fname": "ramp.457.dump.json",
+      "temp": 1900,
+      "flipTime": 1.892e-09
+    },
+    {
+      "fname": "ramp.241.dump.json",
+      "temp": 1900,
+      "flipTime": 5.151e-09
+    },
+    {
+      "fname": "ramp.823.dump.json",
+      "temp": 1900,
+      "flipTime": 1.175e-09
+    },
+    {
+      "fname": "ramp.593.dump.json",
+      "temp": 1900,
+      "flipTime": 1.495e-09
+    },
+    {
+      "fname": "ramp.379.dump.json",
+      "temp": 1900,
+      "flipTime": 3.753e-09
+    },
+    {
+      "fname": "ramp.236.dump.json",
+      "temp": 1900,
+      "flipTime": 2.534e-09
+    },
+    {
+      "fname": "ramp.771.dump.json",
+      "temp": 1900,
+      "flipTime": 1.6836e-08
+    },
+    {
+      "fname": "ramp.886.dump.json",
+      "temp": 1400,
+      "flipTime": 8.7144e-08
+    },
+    {
+      "fname": "ramp.348.dump.json",
+      "temp": 1400,
+      "flipTime": 1.577e-09
+    },
+    {
+      "fname": "ramp.507.dump.json",
+      "temp": 1400,
+      "flipTime": 5.274e-08
+    },
+    {
+      "fname": "ramp.651.dump.json",
+      "temp": 1400,
+      "flipTime": 1.4582999999999999e-08
+    },
+    {
+      "fname": "ramp.326.dump.json",
+      "temp": 1400,
+      "flipTime": 2.6676e-08
+    },
+    {
+      "fname": "ramp.903.dump.json",
+      "temp": 1400,
+      "flipTime": 2.4171e-08
+    },
+    {
+      "fname": "ramp.423.dump.json",
+      "temp": 1400,
+      "flipTime": 4.9226e-08
+    },
+    {
+      "fname": "ramp.201.dump.json",
+      "temp": 1400,
+      "flipTime": 1.1943e-08
+    },
+    {
+      "fname": "ramp.179.dump.json",
+      "temp": 1400,
+      "flipTime": 2.4587e-08
+    },
+    {
+      "fname": "ramp.771.dump.json",
+      "temp": 1400,
+      "flipTime": 3.106e-09
+    },
+    {
+      "fname": "ramp.7493.dump.json",
+      "temp": 1570,
+      "flipTime": 5.3125e-08
+    },
+    {
+      "fname": "ramp.4289.dump.json",
+      "temp": 1570,
+      "flipTime": 1.803e-08
+    },
+    {
+      "fname": "ramp.4658.dump.json",
+      "temp": 1570,
+      "flipTime": 3.2913e-08
+    },
+    {
+      "fname": "ramp.9837.dump.json",
+      "temp": 1570,
+      "flipTime": 2.7228e-08
+    },
+    {
+      "fname": "ramp.3387.dump.json",
+      "temp": 1570,
+      "flipTime": 7.81e-10
+    },
+    {
+      "fname": "ramp.3375.dump.json",
+      "temp": 1570,
+      "flipTime": 6.22e-09
+    },
+    {
+      "fname": "ramp.4581.dump.json",
+      "temp": 1570,
+      "flipTime": 6.8602e-08
+    },
+    {
+      "fname": "ramp.1805.dump.json",
+      "temp": 1570,
+      "flipTime": 1.4413e-08
+    },
+    {
+      "fname": "ramp.6447.dump.json",
+      "temp": 1570,
+      "flipTime": 7.819e-09
+    },
+    {
+      "fname": "ramp.3882.dump.json",
+      "temp": 1570,
+      "flipTime": 7.205e-09
+    },
+    {
+      "fname": "ramp.8261.dump.json",
+      "temp": 1570,
+      "flipTime": 5.2302e-08
+    },
+    {
+      "fname": "ramp.1018.dump.json",
+      "temp": 1570,
+      "flipTime": 7.6e-09
+    },
+    {
+      "fname": "ramp.7616.dump.json",
+      "temp": 1570,
+      "flipTime": 6.875e-08
+    },
+    {
+      "fname": "ramp.1475.dump.json",
+      "temp": 1570,
+      "flipTime": 3.2189999999999997e-09
+    },
+    {
+      "fname": "ramp.3674.dump.json",
+      "temp": 1570,
+      "flipTime": 2.0628e-08
+    },
+    {
+      "fname": "ramp.6169.dump.json",
+      "temp": 1570,
+      "flipTime": 6.277599999999999e-08
+    },
+    {
+      "fname": "ramp.3047.dump.json",
+      "temp": 1570,
+      "flipTime": 5.19e-10
+    },
+    {
+      "fname": "ramp.6022.dump.json",
+      "temp": 1570,
+      "flipTime": 3.6231e-08
+    },
+    {
+      "fname": "ramp.6025.dump.json",
+      "temp": 1570,
+      "flipTime": 3.3793e-08
+    },
+    {
+      "fname": "ramp.6238.dump.json",
+      "temp": 1570,
+      "flipTime": 3.2935e-08
+    },
+    {
+      "fname": "ramp.2983.dump.json",
+      "temp": 1570,
+      "flipTime": 1.0675e-08
+    },
+    {
+      "fname": "ramp.4099.dump.json",
+      "temp": 1570,
+      "flipTime": 1.771e-09
+    },
+    {
+      "fname": "ramp.3347.dump.json",
+      "temp": 1570,
+      "flipTime": 8.5599e-08
+    },
+    {
+      "fname": "ramp.6952.dump.json",
+      "temp": 1570,
+      "flipTime": 1.2511e-08
+    },
+    {
+      "fname": "ramp.6687.dump.json",
+      "temp": 1570,
+      "flipTime": 1.4162e-08
+    },
+    {
+      "fname": "ramp.3486.dump.json",
+      "temp": 1570,
+      "flipTime": 3.1162e-08
+    },
+    {
+      "fname": "ramp.8730.dump.json",
+      "temp": 1570,
+      "flipTime": 3.5192999999999996e-08
+    },
+    {
+      "fname": "ramp.2361.dump.json",
+      "temp": 1570,
+      "flipTime": 5.4298e-08
+    },
+    {
+      "fname": "ramp.5132.dump.json",
+      "temp": 1570,
+      "flipTime": 9.356999999999999e-09
+    },
+    {
+      "fname": "ramp.9885.dump.json",
+      "temp": 1570,
+      "flipTime": 1.2877e-08
+    },
+    {
+      "fname": "ramp.2586.dump.json",
+      "temp": 1570,
+      "flipTime": 1.6559e-08
+    },
+    {
+      "fname": "ramp.8134.dump.json",
+      "temp": 1570,
+      "flipTime": 1.0319e-08
+    },
+    {
+      "fname": "ramp.7876.dump.json",
+      "temp": 1570,
+      "flipTime": 8.851e-09
+    },
+    {
+      "fname": "ramp.2121.dump.json",
+      "temp": 1570,
+      "flipTime": 2.1925e-08
+    },
+    {
+      "fname": "ramp.4947.dump.json",
+      "temp": 1570,
+      "flipTime": 1.6498e-08
+    },
+    {
+      "fname": "ramp.4494.dump.json",
+      "temp": 1570,
+      "flipTime": 3.4439e-08
+    },
+    {
+      "fname": "ramp.7396.dump.json",
+      "temp": 1570,
+      "flipTime": 5.0786e-08
+    },
+    {
+      "fname": "ramp.4231.dump.json",
+      "temp": 1570,
+      "flipTime": 7.6017e-08
+    },
+    {
+      "fname": "ramp.6905.dump.json",
+      "temp": 1570,
+      "flipTime": 2.7349999999999998e-09
+    },
+    {
+      "fname": "ramp.6099.dump.json",
+      "temp": 1570,
+      "flipTime": 1.8506999999999998e-08
+    },
+    {
+      "fname": "ramp.8245.dump.json",
+      "temp": 1570,
+      "flipTime": 4.417e-09
+    },
+    {
+      "fname": "ramp.1569.dump.json",
+      "temp": 1570,
+      "flipTime": 5.9191e-08
+    },
+    {
+      "fname": "ramp.4386.dump.json",
+      "temp": 1570,
+      "flipTime": 5.6525e-08
+    },
+    {
+      "fname": "ramp.2535.dump.json",
+      "temp": 1570,
+      "flipTime": 7.7721e-08
+    },
+    {
+      "fname": "ramp.1415.dump.json",
+      "temp": 1570,
+      "flipTime": 2.8715e-08
+    },
+    {
+      "fname": "ramp.6153.dump.json",
+      "temp": 1570,
+      "flipTime": 3.859e-08
+    },
+    {
+      "fname": "ramp.3623.dump.json",
+      "temp": 1570,
+      "flipTime": 2.206e-08
+    },
+    {
+      "fname": "ramp.1626.dump.json",
+      "temp": 1570,
+      "flipTime": 4.075e-09
+    },
+    {
+      "fname": "ramp.93.dump.json",
+      "temp": 1800,
+      "flipTime": 8.024999999999999e-09
+    },
+    {
+      "fname": "ramp.57.dump.json",
+      "temp": 1800,
+      "flipTime": 2.503e-09
+    },
+    {
+      "fname": "ramp.23.dump.json",
+      "temp": 1800,
+      "flipTime": 4.725e-09
+    },
+    {
+      "fname": "ramp.86.dump.json",
+      "temp": 1800,
+      "flipTime": 2.215e-09
+    },
+    {
+      "fname": "ramp.79.dump.json",
+      "temp": 1800,
+      "flipTime": 7.674e-09
+    },
+    {
+      "fname": "ramp.38.dump.json",
+      "temp": 1800,
+      "flipTime": 8.554e-09
+    },
+    {
+      "fname": "ramp.61.dump.json",
+      "temp": 1800,
+      "flipTime": 8.674e-09
+    },
+    {
+      "fname": "ramp.36.dump.json",
+      "temp": 1800,
+      "flipTime": 7.55e-10
+    },
+    {
+      "fname": "ramp.21.dump.json",
+      "temp": 1800,
+      "flipTime": 7.601e-09
+    },
+    {
+      "fname": "ramp.71.dump.json",
+      "temp": 1800,
+      "flipTime": 2.6481e-08
+    },
+    {
+      "fname": "ramp.228.dump.json",
+      "temp": 1595,
+      "flipTime": 3.1179999999999998e-09
+    },
+    {
+      "fname": "ramp.997.dump.json",
+      "temp": 1595,
+      "flipTime": 1.6113e-08
+    },
+    {
+      "fname": "ramp.988.dump.json",
+      "temp": 1595,
+      "flipTime": 3.721e-09
+    },
+    {
+      "fname": "ramp.382.dump.json",
+      "temp": 1595,
+      "flipTime": 6.2519999999999995e-09
+    },
+    {
+      "fname": "ramp.255.dump.json",
+      "temp": 1595,
+      "flipTime": 3.272e-09
+    },
+    {
+      "fname": "ramp.660.dump.json",
+      "temp": 1595,
+      "flipTime": 1.9171e-08
+    },
+    {
+      "fname": "ramp.263.dump.json",
+      "temp": 1595,
+      "flipTime": 8.3035e-08
+    },
+    {
+      "fname": "ramp.619.dump.json",
+      "temp": 1595,
+      "flipTime": 9.33e-09
+    },
+    {
+      "fname": "ramp.783.dump.json",
+      "temp": 1595,
+      "flipTime": 5.4012e-08
+    },
+    {
+      "fname": "ramp.188.dump.json",
+      "temp": 1595,
+      "flipTime": 3.9502e-08
+    },
+    {
+      "fname": "ramp.154.dump.json",
+      "temp": 1595,
+      "flipTime": 7.786e-09
+    },
+    {
+      "fname": "ramp.836.dump.json",
+      "temp": 1595,
+      "flipTime": 1.1384999999999999e-08
+    },
+    {
+      "fname": "ramp.443.dump.json",
+      "temp": 1595,
+      "flipTime": 1.9679999999999998e-08
+    },
+    {
+      "fname": "ramp.887.dump.json",
+      "temp": 1595,
+      "flipTime": 2.9395e-08
+    },
+    {
+      "fname": "ramp.573.dump.json",
+      "temp": 1595,
+      "flipTime": 5.0968e-08
+    },
+    {
+      "fname": "ramp.741.dump.json",
+      "temp": 1595,
+      "flipTime": 7.025e-09
+    },
+    {
+      "fname": "ramp.537.dump.json",
+      "temp": 1595,
+      "flipTime": 1.9538e-08
+    },
+    {
+      "fname": "ramp.318.dump.json",
+      "temp": 1595,
+      "flipTime": 9.7471e-08
+    },
+    {
+      "fname": "ramp.909.dump.json",
+      "temp": 1595,
+      "flipTime": 1.3524e-08
+    },
+    {
+      "fname": "ramp.958.dump.json",
+      "temp": 1595,
+      "flipTime": 1.7463e-08
+    },
+    {
+      "fname": "ramp.181.dump.json",
+      "temp": 1595,
+      "flipTime": 3.4852e-08
+    },
+    {
+      "fname": "ramp.480.dump.json",
+      "temp": 1595,
+      "flipTime": 6.3095e-08
+    },
+    {
+      "fname": "ramp.327.dump.json",
+      "temp": 1595,
+      "flipTime": 6.611e-09
+    },
+    {
+      "fname": "ramp.120.dump.json",
+      "temp": 1595,
+      "flipTime": 8.299199999999999e-08
+    },
+    {
+      "fname": "ramp.843.dump.json",
+      "temp": 1595,
+      "flipTime": 2.1645e-08
+    },
+    {
+      "fname": "ramp.351.dump.json",
+      "temp": 1595,
+      "flipTime": 6.3059999999999995e-09
+    },
+    {
+      "fname": "ramp.143.dump.json",
+      "temp": 1595,
+      "flipTime": 2.8733e-08
+    },
+    {
+      "fname": "ramp.965.dump.json",
+      "temp": 1595,
+      "flipTime": 2.5037e-08
+    },
+    {
+      "fname": "ramp.499.dump.json",
+      "temp": 1595,
+      "flipTime": 3.3019e-08
+    },
+    {
+      "fname": "ramp.250.dump.json",
+      "temp": 1595,
+      "flipTime": 1.6119e-08
+    },
+    {
+      "fname": "ramp.375.dump.json",
+      "temp": 1595,
+      "flipTime": 3.5069e-08
+    },
+    {
+      "fname": "ramp.123.dump.json",
+      "temp": 1595,
+      "flipTime": 6.2548e-08
+    },
+    {
+      "fname": "ramp.377.dump.json",
+      "temp": 1595,
+      "flipTime": 1.6678e-08
+    },
+    {
+      "fname": "ramp.608.dump.json",
+      "temp": 1595,
+      "flipTime": 5.1174e-08
+    },
+    {
+      "fname": "ramp.903.dump.json",
+      "temp": 1595,
+      "flipTime": 5.0786e-08
+    },
+    {
+      "fname": "ramp.506.dump.json",
+      "temp": 1595,
+      "flipTime": 5.8494e-08
+    },
+    {
+      "fname": "ramp.742.dump.json",
+      "temp": 1595,
+      "flipTime": 3.522e-09
+    },
+    {
+      "fname": "ramp.754.dump.json",
+      "temp": 1595,
+      "flipTime": 7.106e-09
+    },
+    {
+      "fname": "ramp.371.dump.json",
+      "temp": 1595,
+      "flipTime": 1.8786999999999998e-08
+    },
+    {
+      "fname": "ramp.203.dump.json",
+      "temp": 1595,
+      "flipTime": 3.5486e-08
+    },
+    {
+      "fname": "ramp.352.dump.json",
+      "temp": 1595,
+      "flipTime": 3.8507e-08
+    },
+    {
+      "fname": "ramp.662.dump.json",
+      "temp": 1595,
+      "flipTime": 7.6472e-08
+    },
+    {
+      "fname": "ramp.617.dump.json",
+      "temp": 1595,
+      "flipTime": 5.7386999999999996e-08
+    },
+    {
+      "fname": "ramp.780.dump.json",
+      "temp": 1595,
+      "flipTime": 6.366e-09
+    },
+    {
+      "fname": "ramp.654.dump.json",
+      "temp": 1595,
+      "flipTime": 1.2506e-08
+    },
+    {
+      "fname": "ramp.758.dump.json",
+      "temp": 1595,
+      "flipTime": 6.3357e-08
+    },
+    {
+      "fname": "ramp.454.dump.json",
+      "temp": 1595,
+      "flipTime": 5.859e-09
+    },
+    {
+      "fname": "ramp.9275.dump.json",
+      "temp": 1620,
+      "flipTime": 9.680999999999999e-09
+    },
+    {
+      "fname": "ramp.8454.dump.json",
+      "temp": 1620,
+      "flipTime": 1.5657e-08
+    },
+    {
+      "fname": "ramp.5707.dump.json",
+      "temp": 1620,
+      "flipTime": 7.9739e-08
+    },
+    {
+      "fname": "ramp.2553.dump.json",
+      "temp": 1620,
+      "flipTime": 7.827e-08
+    },
+    {
+      "fname": "ramp.8834.dump.json",
+      "temp": 1620,
+      "flipTime": 1.4063e-08
+    },
+    {
+      "fname": "ramp.3266.dump.json",
+      "temp": 1620,
+      "flipTime": 9.108e-09
+    },
+    {
+      "fname": "ramp.3951.dump.json",
+      "temp": 1620,
+      "flipTime": 9.28e-10
+    },
+    {
+      "fname": "ramp.7020.dump.json",
+      "temp": 1620,
+      "flipTime": 5.055e-09
+    },
+    {
+      "fname": "ramp.7161.dump.json",
+      "temp": 1620,
+      "flipTime": 6.3143e-08
+    },
+    {
+      "fname": "ramp.2902.dump.json",
+      "temp": 1620,
+      "flipTime": 7.3668e-08
+    },
+    {
+      "fname": "ramp.5108.dump.json",
+      "temp": 1620,
+      "flipTime": 4.601e-09
+    },
+    {
+      "fname": "ramp.8557.dump.json",
+      "temp": 1620,
+      "flipTime": 1.2581e-08
+    },
+    {
+      "fname": "ramp.516.dump.json",
+      "temp": 1620,
+      "flipTime": 2.0058e-08
+    },
+    {
+      "fname": "ramp.5975.dump.json",
+      "temp": 1620,
+      "flipTime": 1.1917e-08
+    },
+    {
+      "fname": "ramp.7266.dump.json",
+      "temp": 1620,
+      "flipTime": 2.6857999999999998e-08
+    },
+    {
+      "fname": "ramp.4185.dump.json",
+      "temp": 1620,
+      "flipTime": 6.4902e-08
+    },
+    {
+      "fname": "ramp.1423.dump.json",
+      "temp": 1620,
+      "flipTime": 9.063e-09
+    },
+    {
+      "fname": "ramp.685.dump.json",
+      "temp": 1620,
+      "flipTime": 9.941e-09
+    },
+    {
+      "fname": "ramp.6347.dump.json",
+      "temp": 1620,
+      "flipTime": 4.9294e-08
+    },
+    {
+      "fname": "ramp.6506.dump.json",
+      "temp": 1620,
+      "flipTime": 8.7609e-08
+    },
+    {
+      "fname": "ramp.1224.dump.json",
+      "temp": 1620,
+      "flipTime": 3.1302e-08
+    },
+    {
+      "fname": "ramp.4230.dump.json",
+      "temp": 1620,
+      "flipTime": 3.0512e-08
+    },
+    {
+      "fname": "ramp.7542.dump.json",
+      "temp": 1620,
+      "flipTime": 1.4811e-08
+    },
+    {
+      "fname": "ramp.567.dump.json",
+      "temp": 1620,
+      "flipTime": 9.223e-09
+    },
+    {
+      "fname": "ramp.9152.dump.json",
+      "temp": 1620,
+      "flipTime": 8.3e-09
+    },
+    {
+      "fname": "ramp.3176.dump.json",
+      "temp": 1620,
+      "flipTime": 7.6086e-08
+    },
+    {
+      "fname": "ramp.8188.dump.json",
+      "temp": 1620,
+      "flipTime": 1.2499e-08
+    },
+    {
+      "fname": "ramp.6390.dump.json",
+      "temp": 1620,
+      "flipTime": 2.5391e-08
+    },
+    {
+      "fname": "ramp.7939.dump.json",
+      "temp": 1620,
+      "flipTime": 6.6355e-08
+    },
+    {
+      "fname": "ramp.5769.dump.json",
+      "temp": 1620,
+      "flipTime": 7.584e-09
+    },
+    {
+      "fname": "ramp.1367.dump.json",
+      "temp": 1620,
+      "flipTime": 8.2913e-08
+    },
+    {
+      "fname": "ramp.6252.dump.json",
+      "temp": 1620,
+      "flipTime": 4.0229e-08
+    },
+    {
+      "fname": "ramp.1730.dump.json",
+      "temp": 1620,
+      "flipTime": 1.235e-08
+    },
+    {
+      "fname": "ramp.3239.dump.json",
+      "temp": 1620,
+      "flipTime": 5.1599e-08
+    },
+    {
+      "fname": "ramp.3166.dump.json",
+      "temp": 1620,
+      "flipTime": 5.3098e-08
+    },
+    {
+      "fname": "ramp.8297.dump.json",
+      "temp": 1620,
+      "flipTime": 1.3808e-08
+    },
+    {
+      "fname": "ramp.942.dump.json",
+      "temp": 1620,
+      "flipTime": 5.1538999999999996e-08
+    },
+    {
+      "fname": "ramp.2889.dump.json",
+      "temp": 1620,
+      "flipTime": 2.5791e-08
+    },
+    {
+      "fname": "ramp.6081.dump.json",
+      "temp": 1620,
+      "flipTime": 1.832e-08
+    },
+    {
+      "fname": "ramp.2027.dump.json",
+      "temp": 1620,
+      "flipTime": 9.36e-10
+    },
+    {
+      "fname": "ramp.8445.dump.json",
+      "temp": 1620,
+      "flipTime": 1.434e-08
+    },
+    {
+      "fname": "ramp.5286.dump.json",
+      "temp": 1620,
+      "flipTime": 1.0710999999999999e-08
+    },
+    {
+      "fname": "ramp.7611.dump.json",
+      "temp": 1620,
+      "flipTime": 5.6866e-08
+    },
+    {
+      "fname": "ramp.826.dump.json",
+      "temp": 1620,
+      "flipTime": 7.9183e-08
+    },
+    {
+      "fname": "ramp.6810.dump.json",
+      "temp": 1620,
+      "flipTime": 6.5777e-08
+    },
+    {
+      "fname": "ramp.1760.dump.json",
+      "temp": 1620,
+      "flipTime": 8.0456e-08
+    },
+    {
+      "fname": "ramp.6453.dump.json",
+      "temp": 1620,
+      "flipTime": 5.881e-09
+    },
+    {
+      "fname": "ramp.713.dump.json",
+      "temp": 1620,
+      "flipTime": 5.5167e-08
+    },
+    {
+      "fname": "ramp.365.dump.json",
+      "temp": 1545,
+      "flipTime": 3.7998e-08
+    },
+    {
+      "fname": "ramp.333.dump.json",
+      "temp": 1545,
+      "flipTime": 3.1363e-08
+    },
+    {
+      "fname": "ramp.580.dump.json",
+      "temp": 1545,
+      "flipTime": 1.2918e-08
+    },
+    {
+      "fname": "ramp.862.dump.json",
+      "temp": 1545,
+      "flipTime": 5.0709999999999995e-09
+    },
+    {
+      "fname": "ramp.482.dump.json",
+      "temp": 1545,
+      "flipTime": 6.647e-09
+    },
+    {
+      "fname": "ramp.724.dump.json",
+      "temp": 1545,
+      "flipTime": 1.1303e-08
+    },
+    {
+      "fname": "ramp.751.dump.json",
+      "temp": 1545,
+      "flipTime": 2.7636999999999998e-08
+    },
+    {
+      "fname": "ramp.235.dump.json",
+      "temp": 1545,
+      "flipTime": 5.4729e-08
+    },
+    {
+      "fname": "ramp.419.dump.json",
+      "temp": 1545,
+      "flipTime": 3.0742e-08
+    },
+    {
+      "fname": "ramp.974.dump.json",
+      "temp": 1545,
+      "flipTime": 6.4131e-08
+    },
+    {
+      "fname": "ramp.175.dump.json",
+      "temp": 1545,
+      "flipTime": 5.2151e-08
+    },
+    {
+      "fname": "ramp.508.dump.json",
+      "temp": 1545,
+      "flipTime": 2.503e-08
+    },
+    {
+      "fname": "ramp.254.dump.json",
+      "temp": 1545,
+      "flipTime": 5.2096e-08
+    },
+    {
+      "fname": "ramp.648.dump.json",
+      "temp": 1545,
+      "flipTime": 2.2658e-08
+    },
+    {
+      "fname": "ramp.384.dump.json",
+      "temp": 1545,
+      "flipTime": 7.8145e-08
+    },
+    {
+      "fname": "ramp.497.dump.json",
+      "temp": 1545,
+      "flipTime": 3.2752e-08
+    },
+    {
+      "fname": "ramp.152.dump.json",
+      "temp": 1545,
+      "flipTime": 3.7017e-08
+    },
+    {
+      "fname": "ramp.324.dump.json",
+      "temp": 1545,
+      "flipTime": 1.0265999999999999e-08
+    },
+    {
+      "fname": "ramp.562.dump.json",
+      "temp": 1545,
+      "flipTime": 6.258e-09
+    },
+    {
+      "fname": "ramp.775.dump.json",
+      "temp": 1545,
+      "flipTime": 2.5436999999999998e-08
+    },
+    {
+      "fname": "ramp.313.dump.json",
+      "temp": 1545,
+      "flipTime": 5.13e-10
+    },
+    {
+      "fname": "ramp.671.dump.json",
+      "temp": 1545,
+      "flipTime": 4.933e-09
+    },
+    {
+      "fname": "ramp.564.dump.json",
+      "temp": 1545,
+      "flipTime": 6.675e-09
+    },
+    {
+      "fname": "ramp.186.dump.json",
+      "temp": 1545,
+      "flipTime": 2.5051999999999998e-08
+    },
+    {
+      "fname": "ramp.597.dump.json",
+      "temp": 1545,
+      "flipTime": 6.1663e-08
+    },
+    {
+      "fname": "ramp.318.dump.json",
+      "temp": 1545,
+      "flipTime": 2.7982e-08
+    },
+    {
+      "fname": "ramp.230.dump.json",
+      "temp": 1545,
+      "flipTime": 3.0059e-08
+    },
+    {
+      "fname": "ramp.469.dump.json",
+      "temp": 1545,
+      "flipTime": 2.1484e-08
+    },
+    {
+      "fname": "ramp.911.dump.json",
+      "temp": 1545,
+      "flipTime": 5.61e-09
+    },
+    {
+      "fname": "ramp.325.dump.json",
+      "temp": 1545,
+      "flipTime": 5.0011e-08
+    },
+    {
+      "fname": "ramp.735.dump.json",
+      "temp": 1545,
+      "flipTime": 1.253e-08
+    },
+    {
+      "fname": "ramp.959.dump.json",
+      "temp": 1545,
+      "flipTime": 3.753e-08
+    },
+    {
+      "fname": "ramp.947.dump.json",
+      "temp": 1545,
+      "flipTime": 2.8913e-08
+    },
+    {
+      "fname": "ramp.273.dump.json",
+      "temp": 1545,
+      "flipTime": 3.966e-09
+    },
+    {
+      "fname": "ramp.978.dump.json",
+      "temp": 1545,
+      "flipTime": 2.1268e-08
+    },
+    {
+      "fname": "ramp.518.dump.json",
+      "temp": 1545,
+      "flipTime": 5.7493e-08
+    },
+    {
+      "fname": "ramp.128.dump.json",
+      "temp": 1545,
+      "flipTime": 2.871e-09
+    },
+    {
+      "fname": "ramp.992.dump.json",
+      "temp": 1545,
+      "flipTime": 6.2952e-08
+    },
+    {
+      "fname": "ramp.942.dump.json",
+      "temp": 1545,
+      "flipTime": 8.981e-09
+    },
+    {
+      "fname": "ramp.187.dump.json",
+      "temp": 1545,
+      "flipTime": 5.6251e-08
+    },
+    {
+      "fname": "ramp.409.dump.json",
+      "temp": 1545,
+      "flipTime": 9.0629e-08
+    },
+    {
+      "fname": "ramp.179.dump.json",
+      "temp": 1545,
+      "flipTime": 7.922e-09
+    },
+    {
+      "fname": "ramp.551.dump.json",
+      "temp": 1545,
+      "flipTime": 4.4849e-08
+    },
+    {
+      "fname": "ramp.314.dump.json",
+      "temp": 1545,
+      "flipTime": 5.3229e-08
+    },
+    {
+      "fname": "ramp.472.dump.json",
+      "temp": 1545,
+      "flipTime": 7.5678e-08
+    },
+    {
+      "fname": "ramp.713.dump.json",
+      "temp": 1545,
+      "flipTime": 7.596e-09
+    },
+    {
+      "fname": "ramp.955.dump.json",
+      "temp": 1545,
+      "flipTime": 7.8216e-08
+    },
+    {
+      "fname": "ramp.3494.dump.json",
+      "temp": 1495,
+      "flipTime": 6.719e-08
+    },
+    {
+      "fname": "ramp.7022.dump.json",
+      "temp": 1495,
+      "flipTime": 1.8959e-08
+    },
+    {
+      "fname": "ramp.4217.dump.json",
+      "temp": 1495,
+      "flipTime": 2.4946999999999998e-08
+    },
+    {
+      "fname": "ramp.4380.dump.json",
+      "temp": 1495,
+      "flipTime": 4.703e-09
+    },
+    {
+      "fname": "ramp.8682.dump.json",
+      "temp": 1495,
+      "flipTime": 9.5408e-08
+    },
+    {
+      "fname": "ramp.1603.dump.json",
+      "temp": 1495,
+      "flipTime": 5.3195e-08
+    },
+    {
+      "fname": "ramp.7636.dump.json",
+      "temp": 1495,
+      "flipTime": 6.4845e-08
+    },
+    {
+      "fname": "ramp.8834.dump.json",
+      "temp": 1495,
+      "flipTime": 5.3013e-08
+    },
+    {
+      "fname": "ramp.3158.dump.json",
+      "temp": 1495,
+      "flipTime": 7.6894e-08
+    },
+    {
+      "fname": "ramp.6065.dump.json",
+      "temp": 1495,
+      "flipTime": 2.6574e-08
+    },
+    {
+      "fname": "ramp.1225.dump.json",
+      "temp": 1495,
+      "flipTime": 1.7187999999999998e-08
+    },
+    {
+      "fname": "ramp.9553.dump.json",
+      "temp": 1495,
+      "flipTime": 1.5895e-08
+    },
+    {
+      "fname": "ramp.4356.dump.json",
+      "temp": 1495,
+      "flipTime": 7.5106e-08
+    },
+    {
+      "fname": "ramp.6617.dump.json",
+      "temp": 1495,
+      "flipTime": 2.1112e-08
+    },
+    {
+      "fname": "ramp.1684.dump.json",
+      "temp": 1495,
+      "flipTime": 2.3174e-08
+    },
+    {
+      "fname": "ramp.2198.dump.json",
+      "temp": 1495,
+      "flipTime": 1.964e-09
+    },
+    {
+      "fname": "ramp.7277.dump.json",
+      "temp": 1495,
+      "flipTime": 2.4648999999999998e-08
+    },
+    {
+      "fname": "ramp.3436.dump.json",
+      "temp": 1495,
+      "flipTime": 2.1913e-08
+    },
+    {
+      "fname": "ramp.8113.dump.json",
+      "temp": 1495,
+      "flipTime": 1.1364e-08
+    },
+    {
+      "fname": "ramp.9173.dump.json",
+      "temp": 1495,
+      "flipTime": 9.247e-09
+    },
+    {
+      "fname": "ramp.4410.dump.json",
+      "temp": 1495,
+      "flipTime": 6.05e-10
+    },
+    {
+      "fname": "ramp.3196.dump.json",
+      "temp": 1495,
+      "flipTime": 1.2171e-08
+    },
+    {
+      "fname": "ramp.2443.dump.json",
+      "temp": 1495,
+      "flipTime": 5.0297e-08
+    },
+    {
+      "fname": "ramp.9948.dump.json",
+      "temp": 1495,
+      "flipTime": 1.5645e-08
+    },
+    {
+      "fname": "ramp.6435.dump.json",
+      "temp": 1495,
+      "flipTime": 2.1792e-08
+    },
+    {
+      "fname": "ramp.3978.dump.json",
+      "temp": 1495,
+      "flipTime": 2.6749e-08
+    },
+    {
+      "fname": "ramp.4058.dump.json",
+      "temp": 1495,
+      "flipTime": 5.8794e-08
+    },
+    {
+      "fname": "ramp.3483.dump.json",
+      "temp": 1495,
+      "flipTime": 3.441e-08
+    },
+    {
+      "fname": "ramp.1813.dump.json",
+      "temp": 1495,
+      "flipTime": 5.1235999999999996e-08
+    },
+    {
+      "fname": "ramp.2763.dump.json",
+      "temp": 1495,
+      "flipTime": 1.9361999999999998e-08
+    },
+    {
+      "fname": "ramp.9521.dump.json",
+      "temp": 1495,
+      "flipTime": 1.8792999999999998e-08
+    },
+    {
+      "fname": "ramp.3400.dump.json",
+      "temp": 1495,
+      "flipTime": 3.7501e-08
+    },
+    {
+      "fname": "ramp.8427.dump.json",
+      "temp": 1495,
+      "flipTime": 2.0871e-08
+    },
+    {
+      "fname": "ramp.5680.dump.json",
+      "temp": 1495,
+      "flipTime": 7.469e-08
+    },
+    {
+      "fname": "ramp.6695.dump.json",
+      "temp": 1495,
+      "flipTime": 8.18e-10
+    },
+    {
+      "fname": "ramp.5124.dump.json",
+      "temp": 1495,
+      "flipTime": 2.4787e-08
+    },
+    {
+      "fname": "ramp.6081.dump.json",
+      "temp": 1495,
+      "flipTime": 3.8616e-08
+    },
+    {
+      "fname": "ramp.8758.dump.json",
+      "temp": 1495,
+      "flipTime": 7.708599999999999e-08
+    },
+    {
+      "fname": "ramp.4489.dump.json",
+      "temp": 1495,
+      "flipTime": 5.0364e-08
+    },
+    {
+      "fname": "ramp.9718.dump.json",
+      "temp": 1495,
+      "flipTime": 2.0966e-08
+    },
+    {
+      "fname": "ramp.1124.dump.json",
+      "temp": 1495,
+      "flipTime": 8.914199999999999e-08
+    },
+    {
+      "fname": "ramp.2612.dump.json",
+      "temp": 1495,
+      "flipTime": 2.2685e-08
+    },
+    {
+      "fname": "ramp.9616.dump.json",
+      "temp": 1495,
+      "flipTime": 5.0394e-08
+    },
+    {
+      "fname": "ramp.3576.dump.json",
+      "temp": 1495,
+      "flipTime": 5.7199e-08
+    },
+    {
+      "fname": "ramp.6453.dump.json",
+      "temp": 1495,
+      "flipTime": 4.8916e-08
+    },
+    {
+      "fname": "ramp.9822.dump.json",
+      "temp": 1495,
+      "flipTime": 3.7528e-08
+    },
+    {
+      "fname": "ramp.4167.dump.json",
+      "temp": 1495,
+      "flipTime": 8.253e-09
+    }
+  ]
+}
