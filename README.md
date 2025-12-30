@@ -5,6 +5,7 @@ This document describes all data, code, and LAMMPS input files required to
 reproduce the results of the manuscript.
 
 #Folder Structure
+
     * Data/
         - combined_rampflip_data.json
         - combined_transflip_data.json
