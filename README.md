@@ -8,9 +8,13 @@ reproduce the results of the manuscript.
     * Data/
         - combined_rampflip_data.json
         - combined_transflip_data.json
+
+        
     * Code/
         - ramp.py
         - Isothermal.py
+
+        
     * LAMMPS/
     
         *[NPTeqlb]/
